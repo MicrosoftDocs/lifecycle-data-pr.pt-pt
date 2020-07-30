@@ -1,0 +1,24 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Small Business Server 2008
+  description: O Windows Small Business Server 2008 segue a Política de Ciclo de Vida Fixo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: ca524a5b2238d362198454212c1b53d9946cdb05
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pt-PT
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "832910"
+name: Windows Small Business Server 2008
+summary: "O Windows Small Business Server 2008 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)\n\nIsto aplica-se às seguintes edições: Premium, Standard\n\n> [!IMPORTANT]\n> O suporte para este produto terminou. \n\nA data de suporte para este pacote de produtos é determinada pelos respetivos ciclos de vida do seu produto componente individual. Por favor, reveja o ciclo de vida do produto componente individual para determinar o seu comprimento de suporte.\n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/21/2008
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 11/21/2008
+  endDate: 01/14/2020
+content: "\n## <a name=\"links\"></a>Links \n* [Orientação para a migração](https://aka.ms/AA1ovn4)\n* [Windows Server 2008](/lifecycle/browse/listings/windows-server-2008)\n* [Exchange Server 2007](/lifecycle/browse/listings/exchange-server-2007)\n* [Microsoft Windows SharePoint Services 3.0](/lifecycle/browse/listings/microsoft-windows-sharepoint-services-30)\n\n\n## <a name=\"editions\"></a>Edições \n* Premium\n* Padrão"
