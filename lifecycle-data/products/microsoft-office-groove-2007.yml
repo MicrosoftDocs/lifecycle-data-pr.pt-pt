@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office Groove 2007
+  description: O Microsoft Office Groove 2007 segue a Política de Ciclo de Vida Fixo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b771dec5ab12ab49e3317d53aea8e91f5d95bd40
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pt-PT
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "833045"
+name: Microsoft Office Groove 2007
+summary: "O Microsoft Office Groove 2007 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)\n\n\n> [!IMPORTANT]\n> O suporte para este produto terminou. \n"
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/27/2007
+  end: 07/10/2012
+  extendedEnd: 10/10/2017
+releases:
+- version: Original Release
+  startDate: 01/27/2007
+  endDate: 10/10/2017
+content: "\n## <a name=\"links\"></a>Links \n* [Orientação para a migração](/office/troubleshoot/support/office-2007-not-support)"
