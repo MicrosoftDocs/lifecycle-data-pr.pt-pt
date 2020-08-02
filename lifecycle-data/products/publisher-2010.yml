@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Editor 2010
+  description: A Editora 2010 segue a Política de Ciclo de Vida Fixo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: edb6c6caacc0e7d246a043d454934fe19b72fa52
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pt-PT
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "832780"
+name: Editor 2010
+summary: >+
+  A Editora 2010 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+
+
+  Isto aplica-se às seguintes edições: Standard
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 10/13/2020
+content: "\n\n\n## <a name=\"editions\"></a>Edições \n* Padrão"
