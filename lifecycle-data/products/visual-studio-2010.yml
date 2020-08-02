@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Estúdio Visual 2010
+  description: O Visual Studio 2010 segue a Política de Ciclo de Vida Fixo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 30c112ab23bba45aaec60660ab85c362bcebf030
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pt-PT
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "832922"
+name: Estúdio Visual 2010
+summary: >+
+  O Visual Studio 2010 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+
+
+  Isto aplica-se às seguintes edições: Agentes, Todos, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Remote Debugger, SDK, Shell (Integrado), Shell (Isolado), Team Agents, Team Explorer, Test Professional, Tools for Office System 4.0 Runtime, Ultimate, VB Express, Visual C# Express, Visual C++ Express, Visual Developer Web Express, Visualization & Modeling SDK
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 06/29/2010
+  end: 07/14/2015
+  extendedEnd: 07/14/2020
+releases:
+- version: Service Pack 1
+  startDate: 03/08/2011
+  endDate: 07/14/2020
+- version: Original Release
+  startDate: 06/29/2010
+  endDate: 04/10/2012
+content: "\n## <a name=\"links\"></a>Links \n* [Política de pacote de serviço](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edições \n* Agentes\n* Todos os\n* ASP .NET MVC 4\n* Expresso\n* F# 2.0 Tempo de execução\n* Gestão de Laboratórios\n* Ferramentas de desempenho\n* Premium\n* Profissional\n* Debugger remoto\n* SDK\n* Concha (Integrada)\n* Concha (isolada)\n* Agentes da equipa\n* Explorador de Equipas\n* Profissional de Teste\n* Ferramentas para sistema de escritório 4.0 Tempo de execução\n* Ultimate\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Expresso visual do desenvolvedor web\n* Visualização & Modelação SDK"
