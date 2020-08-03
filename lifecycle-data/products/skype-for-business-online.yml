@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Skype para Empresas online
+  description: O Skype for Business Online segue a Política moderna do ciclo de vida.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 68200f8b9758ff25b2515f027f39c91bddde4c7e
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: pt-PT
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "860675"
+name: Skype para Empresas online
+summary: >
+  O Skype for Business Online segue a Política [moderna](/lifecycle/policies/modern) do ciclo de vida.
+
+
+
+  > [!IMPORTANT]
+
+  > Este serviço será reformado a 31 de julho de 2021. Veja abaixo a orientação da migração.
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 05/01/2015
+  end: 07/31/2021
+releases:
+- version: Original Release
+  startDate: 05/01/2015
+  endDate: 07/31/2021
+content: "\n## <a name=\"links\"></a>Links \n* [Orientação para a migração](/MicrosoftTeams/upgrade-start-here)"

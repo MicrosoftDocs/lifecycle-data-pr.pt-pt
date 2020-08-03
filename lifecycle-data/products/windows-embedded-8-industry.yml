@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Indústria Windows Embedded 8
+  description: A indústria Windows Embedded 8 segue a Política de Ciclo de Vida Fixo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9ea7dea72b8c455d30007ba3b166f43cf59a4822
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: pt-PT
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "860316"
+name: Indústria Windows Embedded 8
+summary: >
+  A indústria Windows Embedded 8 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+
+
+  Isto aplica-se às seguintes edições: Enterprise, Pro
+
+
+  > [!IMPORTANT]
+
+  > Os clientes devem migrar para o Windows 8.1 para se manterem suportados.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 06/24/2013
+  end: 01/12/2016
+  extendedEnd: 01/12/2016
+releases:
+- version: Original Release
+  startDate: 06/24/2013
+  endDate: 01/12/2016
+content: "\n## <a name=\"links\"></a>Links \n* [Orientação migratória](https://www.microsoft.com/download/details.aspx?id=40279)\n* [FAQ de ciclo de vida - Produtos Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Edições \n* Empresa\n* Pró"
