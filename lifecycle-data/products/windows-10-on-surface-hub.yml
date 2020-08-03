@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 10 no Surface Hub
+  description: O Windows 10 no Surface Hub segue a Política de Ciclo de Vida Fixo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d5c994b23c967ac3138bc695168ac1bbeec1856b
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: pt-PT
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "860322"
+name: Windows 10 no Surface Hub
+summary: >+
+  O Windows 10 no Surface Hub segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 03/25/2016
+  end: 10/14/2025
+releases:
+- version: Original Release
+  startDate: 03/25/2016
+  endDate: 10/14/2025
+content: "\n## <a name=\"links\"></a>Links \n* [Atualizações do Windows (Surface Hub)](/surface-hub/manage-windows-updates-for-surface-hub)\n\n> [!NOTE]\n> Consulte a página de atualizações do Windows (Surface Hub) para garantir que está a receber as últimas atualizações do Surface Hub."
