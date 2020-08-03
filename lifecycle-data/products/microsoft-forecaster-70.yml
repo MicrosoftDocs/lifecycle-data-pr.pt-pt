@@ -1,0 +1,43 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Forecaster 7.0
+  description: O Microsoft Forecaster 7.0 segue a Política de Ciclo de Vida Fixo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e9af608bbdf2d19517b58ebe46d545b09078be8d
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pt-PT
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "833407"
+name: Microsoft Forecaster 7.0
+summary: >+
+  O Microsoft Forecaster 7.0 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 05/30/2007
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Service Pack 5
+  startDate: 05/19/2014
+  endDate: 07/09/2019
+- version: Service Pack 4
+  startDate: 06/27/2011
+  endDate: 07/14/2015
+- version: Service Pack 3
+  startDate: 03/31/2009
+  endDate: 07/10/2012
+- version: Service Pack 2
+  startDate: 06/13/2008
+  endDate: 04/13/2010
+- version: Service Pack 1
+  startDate: 11/01/2007
+  endDate: 07/14/2009
+- version: Original Release
+  startDate: 05/30/2007
+  endDate: 01/13/2009
+content: "\n## <a name=\"links\"></a>Links \n* [Orientação para a migração](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Política de pacote de serviço](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> O suporte do meteorologista termina na data indicada, a menos que seja distribuído como Componente de um produto Dynamics. Quando distribuídos com um produto Dynamics, as datas do ciclo de vida Dynamics sobrepõem a data do Forecaster."
