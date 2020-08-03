@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Servidor de pesquisa rápida 2010 (para sites de Internet, para aplicações internas)
+  description: O Fast Search Server 2010 (para Sites de Internet, para Aplicações Internas) segue a Política de Ciclo de Vida Fixo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 86e1732aefb6ae705ff05f1ef7f84e2d14a1feda
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pt-PT
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "833518"
+name: Servidor de pesquisa rápida 2010 (para sites de Internet, para aplicações internas)
+summary: >+
+  O Fast Search Server 2010 (para Sites de Internet, para Aplicações Internas) segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+
+
+  Isto aplica-se às seguintes edições: Aplicações Internas, Sites de Internet
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 06/16/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Original Release
+  startDate: 06/16/2010
+  endDate: 10/13/2020
+content: "\n## <a name=\"links\"></a>Links \n* [Orientação para a migração](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [FaQ do ciclo de vida - Geral](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Exclui versões previamente dessusedadas. O suporte a este produto está sujeito aos termos da sua aquisição.\n\n## <a name=\"editions\"></a>Edições \n* Aplicações Internas\n* Internet Sites"
