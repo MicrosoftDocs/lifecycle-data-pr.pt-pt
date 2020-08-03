@@ -1,0 +1,40 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Virtualização da Aplicação Microsoft 4.5
+  description: A Virtualização da Aplicação microsoft 4.5 segue a Política de Ciclo de Vida Fixo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9280ac5223f15be20ed2c04fe29b25fd57417b6a
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pt-PT
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "833480"
+name: Virtualização da Aplicação Microsoft 4.5
+summary: >
+  A Virtualização da Aplicação microsoft 4.5 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+
+
+  Isto aplica-se às seguintes edições: para Serviços de Terminais, para Desktops Windows
+
+
+  > [!IMPORTANT]
+
+  > O suporte para este produto terminou. Consulte a orientação da migração abaixo.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/23/2008
+  end: 01/14/2014
+  extendedEnd: 01/08/2019
+releases:
+- version: Service Pack 2
+  startDate: 08/15/2010
+  endDate: 01/08/2019
+- version: Service Pack 1
+  startDate: 12/13/2009
+  endDate: 10/11/2011
+- version: Original Release
+  startDate: 11/23/2008
+  endDate: 01/11/2011
+content: "\n## <a name=\"links\"></a>Links \n* [Orientação para a migração](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Política de pacote de serviço](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Uma vez que o cliente App-V 4.6 utiliza o Servidor App-V 4.5, o Servidor App-V 4.5 continuará a ser suportado de acordo com as datas do ciclo de vida do App-V 4.6 quando em uso com o cliente app-V 4.6 suportado.\n\n## <a name=\"editions\"></a>Edições \n* para Serviços Terminais\n* para desktops windows"
