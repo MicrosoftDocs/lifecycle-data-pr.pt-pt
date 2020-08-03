@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dinâmica 365 Business Central no local (Política Moderna)
+  description: A Dynamics 365 Business Central no local (Política Moderna) segue a Política Moderna do Ciclo de Vida.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 90a0c0c35688097614382dcffd624f46c4bac173
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: pt-PT
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "871418"
+name: Dinâmica 365 Business Central no local (Política Moderna)
+summary: >+
+  A Dynamics 365 Business Central no local (Política Moderna) segue a Política [Moderna](/lifecycle/policies/modern) do Ciclo de Vida.
+
+
+products:
+- dynamics
+policyType: modern-on-prem
+supportDates:
+  start: 10/01/2019
+releases:
+- version: 2020 release wave 1, version 16.x
+  startDate: 04/01/2020
+  endDate: 10/12/2021
+- version: 2019 release wave 2, version 15.x
+  startDate: 10/01/2019
+  endDate: 04/13/2021
+content: "\n## <a name=\"links\"></a>Links \n* [Informação de Manutenção](/dynamics365/business-central/dev-itpro/terms/lifecycle-policy-on-premises#modern-lifecycle-policy)\n* [Microsoft Dynamics 365 Roadmap](https://aka.ms/businessappsreleasenotes)\n* [System requirements](/dynamics365/business-central/product-requirements)\n* [FAQs](/dynamics365/business-central/dev-itpro/faq)"

@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Luz de prata 5
+  description: Silverlight 5 segue a Política de Ciclo de Vida Fixo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 2bdc8039724e69c5693e178d5697eb4e7242c3d2
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: pt-PT
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "871490"
+name: Luz de prata 5
+summary: >+
+  Silverlight 5 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+
+
+products:
+- silverlight
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/09/2011
+  end: 10/12/2021
+releases:
+- version: Original Release
+  startDate: 12/09/2011
+  endDate: 10/12/2021
+content: "\n## <a name=\"links\"></a>Links \n* [Silverlight 5 irá suportar navegadores listados aqui através de 10/12/2021, ou através do ciclo de vida dos navegadores subjacentes, o que for mais curto.](https://www.microsoft.com/getsilverlight/locale/html/installation-win-SL5.html)\n* [Fim do apoio à luz de prata](https://support.microsoft.com/help/4511036/silverlight-end-of-support)\n\n> [!NOTE]\n> A Microsoft fornecerá uma notificação mínima de 12 meses antes de terminar o suporte para ferramentas."
