@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft .NET Framework 4.8
+  description: O Microsoft .NET Framework 4.8 segue a Política de Ciclo de Vida dos Componentes.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: df883bbb34d446d8dfe0ba2635a781778f510841
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: pt-PT
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "871517"
+name: Microsoft .NET Framework 4.8
+summary: >+
+  O Microsoft .NET Framework 4.8 segue a Política de Ciclo de Vida dos [Componentes.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+
+
+products:
+- dotnet
+policyType: component
+supportDates:
+  start: 04/18/2019
+releases:
+- version: Original Release
+  startDate: 04/18/2019
+content: "\n## <a name=\"links\"></a>Links \n* [Informações sobre o produto](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n* [.NET Framework Lifecycle FAQ](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> .NET Framework é um componente do Sistema operativo Windows. Os componentes recebem o mesmo suporte que o seu produto ou plataforma-mãe."

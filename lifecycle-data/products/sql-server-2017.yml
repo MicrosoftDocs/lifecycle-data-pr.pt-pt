@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: SQL Server 2017
+  description: O SQL Server 2017 segue a Política de Ciclo de Vida Fixo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 8eb60aa5e94d8c064f0bb06f4bfb11782141d320
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: pt-PT
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "871535"
+name: SQL Server 2017
+summary: >+
+  O SQL Server 2017 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+
+
+  Isto aplica-se às seguintes edições: no Linux (todas as edições), no Windows (todas as edições)
+
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 09/29/2017
+  end: 10/11/2022
+  extendedEnd: 10/12/2027
+releases:
+- version: Original Release
+  startDate: 09/29/2017
+  endDate: 10/12/2027
+content: "\n## <a name=\"links\"></a>Links \n* [Informação de manutenção](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n> [!NOTE]\n> A partir do SQL Server 2017, não serão lançados Packs de Serviço.\n\n## <a name=\"editions\"></a>Edições \n* em Linux (todas as edições)\n* no Windows (todas as edições)"

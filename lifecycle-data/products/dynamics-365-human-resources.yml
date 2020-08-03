@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dinâmica 365 Recursos Humanos
+  description: A Dinâmica 365 Recursos Humanos segue a Política moderna do ciclo de vida.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a7014b000d8d7613d8ca9eb2a2c3595083b9951c
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: pt-PT
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "871424"
+name: Dinâmica 365 Recursos Humanos
+summary: >+
+  A Dinâmica 365 Recursos Humanos segue a Política [moderna](/lifecycle/policies/modern) do ciclo de vida.
+
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 03/27/2020
+releases:
+- version: Original Release
+  startDate: 03/27/2020
+content: "\n## <a name=\"links\"></a>Links \n* [Orientação para a migração](https://aka.ms/D365HRpost)\n\n> [!NOTE]\n> A aplicação Core HR (anteriormente incluída com a Dynamics 365 Talent) relançou como Dynamics 365 Recursos Humanos."
