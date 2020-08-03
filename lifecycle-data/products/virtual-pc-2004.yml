@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Pc virtual 2004
+  description: O PC Virtual 2004 segue a Política de Ciclo de Vida Fixo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 869a0829186bfc00b527cb9196a97356020ea033
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pt-PT
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "833297"
+name: Pc virtual 2004
+summary: >
+  O PC Virtual 2004 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+
+
+  Isto aplica-se às seguintes edições: Express, Standard
+
+
+  > [!IMPORTANT]
+
+  > O suporte para este produto terminou.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 01/20/2004
+  end: 04/14/2009
+  extendedEnd: 04/08/2014
+releases:
+- version: Service Pack 1
+  startDate: 08/30/2006
+  endDate: 04/08/2014
+- version: Original Release
+  startDate: 01/20/2004
+  endDate: 10/09/2007
+content: "> [!TIP]\n> Microsoft Virtual PC 2004 Express lançado a 13 de abril de 2006.\n\n## <a name=\"links\"></a>Links \n* [Política de pacote de serviço](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edições \n* Expresso\n* Padrão"
