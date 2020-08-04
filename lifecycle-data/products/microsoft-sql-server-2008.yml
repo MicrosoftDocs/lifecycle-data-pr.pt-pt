@@ -2,19 +2,19 @@
 metadata:
   title: Microsoft SQL Server 2008
   description: O Microsoft SQL Server 2008 segue a Política de Ciclo de Vida Fixo.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 8dd6dece999e9bea86eb5b4172ae47f925fa2772
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/03/2020
+  ms.openlocfilehash: 15d47cb19d68d2ebb70659d43f7341eba2db1663
+  ms.sourcegitcommit: ea5579a833360652f47792f68134e2b25be4d487
   ms.translationtype: MT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "833364"
+  ms.lasthandoff: 08/04/2020
+  ms.locfileid: "882227"
 name: Microsoft SQL Server 2008
 summary: >
   O Microsoft SQL Server 2008 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
 
 
-  Isto aplica-se às seguintes edições: Developer, Enterprise, Express, Express with Advanced Services, Standard, Standard Edition for Small Business, Web, Workgroup
+  Isto aplica-se às seguintes edições: Datacenter, Developer, Enterprise, Express, Express com Serviços Avançados, Standard, Standard Edition for Small Business, Web, Workgroup
 
 
   > [!IMPORTANT]
@@ -43,4 +43,4 @@ releases:
 - version: Original Release
   startDate: 11/06/2008
   endDate: 04/13/2010
-content: "> [!TIP]\n> As atualizações de segurança alargadas (ESU) estão disponíveis para as edições Datacenter, Standard, Enterprise, Web, Workgroup e Embedded deste produto, por mais três anos do final do suporte.\n\n## <a name=\"links\"></a>Links \n* [Programa de Atualização de Segurança Alargada (ESU)](/lifecycle/faq/extended-security-updates)\n* [Blog de Serviços de Lançamento SQL](https://blogs.msdn.com/b/sqlreleaseservices/archive/2014/09/26/sql-server-2008-r2-service-pack-3-has-released.aspx)\n* [Orientação para a migração](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Política de pacote de serviço](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Apenas para a IA64, o SP3 será apoiado até 7/9/2019.\n\n## <a name=\"editions\"></a>Edições \n* Desenvolvedor\n* Empresa\n* Expresso\n* Expresso com Serviços Avançados\n* Padrão\n* Edição Padrão para Pequenas Empresas\n* Teia\n* Grupo de trabalho"
+content: "> [!TIP]\n> As atualizações de segurança alargadas (ESU) estão disponíveis para as edições datacenter, Standard, Enterprise, Web e Workgroup deste produto, por mais três anos do que o fim do suporte.\nData de lançamento-------------------------------Start----End Date\n\nAtualização de Segurança Alargada Ano 3---07/13/2021---07/12/2022\n\nAtualização de Segurança Alargada Ano 2---07/14/2021---07/13/2021\n\nAtualização de Segurança Alargada Ano 1---07/9/2019---07/14/2020\n\n\n## <a name=\"links\"></a>Links \n* [Orientação para a migração](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Política de pacote de serviço](/lifecycle/policies/fixed#service-packs)\n* [Programa de Atualização de Segurança Alargada (ESU)](/lifecycle/faq/extended-security-updates)\n* [Blog de Serviços de Lançamento SQL](https://blogs.msdn.com/b/sqlreleaseservices/archive/2014/09/26/sql-server-2008-r2-service-pack-3-has-released.aspx)\n\n> [!NOTE]\n> Apenas para a IA64, o SP3 será apoiado até 7/9/2019.\n\n## <a name=\"editions\"></a>Edições \n* Datacenter\n* Desenvolvedor\n* Empresa\n* Expresso\n* Expresso com Serviços Avançados\n* Padrão\n* Edição Padrão para Pequenas Empresas\n* Teia\n* Grupo de trabalho"
