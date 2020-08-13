@@ -2,13 +2,13 @@
 metadata:
   title: Segurança da frente para o servidor de câmbio
   description: A Segurança da Frente para o Servidor de Câmbio segue a Política de Ciclo de Vida Fixo.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0c3d1542acc20b211ef41984c07656ca0f74be61
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 0053b2aaf2be3d4c6ecbc29a6396bade882e16dc
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "833513"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893732"
 name: Segurança da frente para o servidor de câmbio
 summary: >
   A Segurança da Frente para o Servidor de Câmbio segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
@@ -23,6 +23,7 @@ products:
 policyType: fixed
 supportDates:
   start: 03/08/2007
+  end: 12/31/2015
   extendedEnd: 12/31/2015
 releases:
 - version: Service Pack 2

@@ -2,13 +2,13 @@
 metadata:
   title: Adaptadores Microsoft BizTalk para Sistemas de Anfitrião 2.0
   description: Os adaptadores Microsoft BizTalk para sistemas de anfitrião 2.0 seguem a Política de Ciclo de Vida Fixo.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: f80e0cf76eebd3d54f478080a80929cb15778886
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 425db6cb5918efdf9afc544d8a0e8bb554ce695c
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "833455"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893510"
 name: Adaptadores Microsoft BizTalk para Sistemas de Anfitrião 2.0
 summary: >+
   Os adaptadores Microsoft BizTalk para sistemas de anfitrião 2.0 seguem a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)

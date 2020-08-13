@@ -2,13 +2,13 @@
 metadata:
   title: Expressão
   description: A expressão segue a Política de Ciclo de Vida Fixo.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: ee3c7cfc6f62fb00775e13137084c8e509ac5d8c
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.date: 08/12/2020
+  ms.openlocfilehash: c81accb05bdbd957a699685c83074735956a009e
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "867377"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893399"
 name: Expressão
 summary: "A expressão segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)\n\nIsto aplica-se às seguintes edições: Blend, Design, Encoder, Studio\n\n> [!IMPORTANT]\n> O suporte para este produto terminou. \n"
 products:
