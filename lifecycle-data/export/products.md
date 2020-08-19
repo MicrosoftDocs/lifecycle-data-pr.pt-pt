@@ -1,27 +1,27 @@
 ---
-title: Produtos de Exportação
+title: Exportação de dados do ciclo de vida
 description: Informação sobre o ciclo de vida do produto de exportação
-ms.date: 08/17/2020
-ms.openlocfilehash: 01a34995c0dd1fc9fb0c5f75c4460357e091ccce
-ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
+ms.date: 08/18/2020
+ms.openlocfilehash: 80145edf59e6406d32292d846ae3f263cddd294a
+ms.sourcegitcommit: 6bed901441570ef084842edd1b7e5dfbc192c99a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "899814"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "902414"
 ---
-# <a name="export"></a>Exportação
+# <a name="lifecycle-data-export"></a>Exportação de dados do ciclo de vida
 
 > [!IMPORTANT]
 > Esta página está em desenvolvimento.
 
 ## <a name="export-all-products"></a>Exportar todos os produtos
-Exporte todos os produtos sem filtros.
+Exportar dados de ciclo de vida para todos os produtos clicando abaixo:
 
 > [!div class="nextstepaction"]
 > [Exportar todos os produtos](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-category"></a>Produtos de exportação por categoria
-Selecione um agrupamento para exportar:
+## <a name="export-products-by-family-and-group"></a>Produtos de exportação por família e grupo
+Selecione uma família e, em seguida, um grupo para exportar. Nota: A exportação começará quando o valor do grupo for selecionado. 
 
 > [!div class="op_multi_selector" title1="Família" title2="Grupo"]
 > - [(.NET / Tudo)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ Selecione um agrupamento para exportar:
 > - [(Janelas / Segurança)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Janelas / Servidor)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-year"></a>Produtos de exportação até final do ano de apoio
-Selecione um ano para exportar produtos que terminam o serviço nesse ano:
+## <a name="export-products-by-end-of-support-date"></a>Produtos de exportação até ao final da data de apoio
+Selecione um ano para ver os produtos chegarem ao fim do suporte. Nota: A exportação começará quando o valor do ano for selecionado.
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
