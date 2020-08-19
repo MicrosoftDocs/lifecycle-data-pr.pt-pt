@@ -2,12 +2,12 @@
 title: Exportação de dados do ciclo de vida
 description: Informação sobre o ciclo de vida do produto de exportação
 ms.date: 08/19/2020
-ms.openlocfilehash: d116baffd1a01f45fafeb184fddda1a0736e694a
-ms.sourcegitcommit: 7058ee1673709d6dd4bed24f043690e0da2c6bb4
+ms.openlocfilehash: a9831c67fa9c42ad557eb3d02d4a7c71621b92d2
+ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 08/19/2020
-ms.locfileid: "902647"
+ms.locfileid: "903665"
 ---
 # <a name="lifecycle-data-export"></a>Exportação de dados do ciclo de vida
 
@@ -46,6 +46,7 @@ Selecione uma família e, em seguida, um grupo para exportar. Nota: A exportaç�
 > - [(Expressão / Tudo)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Expression')
 > - [(Expressão / Expressão)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Expression'%20and%20parent/parent/name%20eq%20'Expression')
 > - [(Microsoft 365 ] Tudo)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20365')
+> - [(Microsoft 365 ] Mobilidade Empresarial + Segurança)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20365'%20and%20parent/parent/name%20eq%20'Enterprise%20Mobility%20%2B%20Security')
 > - [(Microsoft 365 ] Gestão de Identidades)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20365'%20and%20parent/parent/name%20eq%20'Identity%20Management')
 > - [(Microsoft Connected Services Framework / Tudo)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Connected%20Services%20Framework')
 > - [(Microsoft Connected Services Framework / Quadro de Serviços Conectados)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Connected%20Services%20Framework'%20and%20parent/parent/name%20eq%20'Connected%20Services%20Framework')
