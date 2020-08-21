@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Incorporado POSReady 7
-  description: O Windows Embedded POSReady 7 segue a Política de Ciclo de Vida Fixo.
+  description: O Windows Embedded POSReady 7 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 61f2ed95175d81f6e33f8435e70b3b45a01094f5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860659"
 name: Windows Incorporado POSReady 7
 summary: >+
-  O Windows Embedded POSReady 7 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Windows Embedded POSReady 7 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 09/10/2011
   endDate: 10/12/2021
-content: "\n## <a name=\"links\"></a>Links \n* [* Programa de Atualização de Segurança Alargada (ESU) - Atualizações de Segurança alargadas para produtos incorporados selecionados estão disponíveis através de OEMs.](/lifecycle/faq/extended-security-updates)\n* [Modo Incorporado Windows IoT](/windows/iot-core/develop-your-app/embeddedmode)"
+content: "\n## <a name=\"links\"></a>Ligações \n* [* Programa de Atualizações de Segurança Alargadas (ESU) - estão disponíveis através de OEMs Atualizações de Segurança Alargadas para produtos Incorporados selecionados.](/lifecycle/faq/extended-security-updates)\n* [Modo Incorporado do Windows IoT](/windows/iot-core/develop-your-app/embeddedmode)"

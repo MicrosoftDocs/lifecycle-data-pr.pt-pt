@@ -2,19 +2,19 @@
 metadata:
   title: Windows 8
   description: O Windows 8 segue a Política de Ciclo de Vida Fixo.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 1204c4097b59cb5449cb8145f06b6d755b3a4d27
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 125ef61a36e4958dd5b87525ae6f5c53181c6e28
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: MT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "860534"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906705"
 name: Windows 8
 summary: >
   O Windows 8 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
 
 
-  Isto aplica-se às seguintes edições: Enterprise, Enterprise N, N, Pro com Media Center, Professional, Professional N
+  Isto aplica-se às seguintes edições: Enterprise, Enterprise N, N, Pro com Media Center, Professional, Professional N, SL
 
 
   > [!IMPORTANT]
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Links \n* [FAQ do ciclo de vida - Windows 8.1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Edições \n* Empresa\n* Empresa N\n* N\n* Pro com Media Center\n* Profissional\n* Profissional N"
+content: "\n## <a name=\"links\"></a>Links \n* [FAQ do ciclo de vida - Windows 8.1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Edições \n* Empresa\n* Empresa N\n* N\n* Pro com Media Center\n* Profissional\n* Profissional N\n* SL"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Estúdio Visual 2019
-  description: O Visual Studio 2019 segue a Política de Ciclo de Vida Fixo.
+  title: Visual Studio 2019
+  description: O Visual Studio 2019 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3bb4a3be253fe45b27fa6baa8f165dc2fbb3ffd1
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871459"
-name: Estúdio Visual 2019
+name: Visual Studio 2019
 summary: >+
-  O Visual Studio 2019 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Visual Studio 2019 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
-  Isto aplica-se às seguintes edições: Agentes, Ferramentas de Construção, Comunidade, Empresa, para Mac, IntelliTrace Standalone Collector, Performance Tools, Professional, Remote Tools, Team Explorer, Visual C++ Redistributable
+  Isto aplica-se às seguintes edições: Agents, Ferramentas de Compilação, Community, Enterprise, para Mac, IntelliTrace Standalone Collector, Ferramentas de Desempenho, Professional, Ferramentas Remotas, Team Explorer, Visual C++ Redistributable
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Version 16.0
   startDate: 04/02/2019
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>Links \n* [Anúncio](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [Informação de manutenção](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>Edições \n* Agentes\n* Ferramentas de construção\n* Comunidade\n* Empresa\n* para Mac\n* Colecionador Autónomo IntelliTrace\n* Ferramentas de desempenho\n* Profissional\n* Ferramentas Remotas\n* Explorador de Equipas\n* Visual C++ Redistribuable"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Anúncio](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [Informações de manutenção](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>Edições \n* Agents\n* Ferramentas de Compilação\n* Community\n* Enterprise\n* para Mac\n* IntelliTrace Standalone Collector\n* Ferramentas de Desempenho\n* Professional\n* Ferramentas Remotas\n* Team Explorer\n* Visual C++ Redistributable"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SQL Server 2014
-  description: O SQL Server 2014 segue a Política de Ciclo de Vida Fixo.
+  description: O SQL Server 2014 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: e0e209968b254d731dcf393a09d7353899d837ef
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860711"
 name: SQL Server 2014
 summary: >+
-  O SQL Server 2014 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O SQL Server 2014 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
   Isto aplica-se às seguintes edições: Business Intelligence, Developer, Enterprise, Enterprise Core, Express, Standard, Web
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 06/05/2014
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>Links \n* [Política de pacote de serviço](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edições \n* Inteligência Empresarial\n* Desenvolvedor\n* Empresa\n* Núcleo da Empresa\n* Expresso\n* Padrão\n* Teia"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edições \n* Business Intelligence\n* Developer\n* Enterprise\n* Enterprise Core\n* Express\n* Standard\n* Web"
