@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Virtualização do Desktop da Microsoft Enterprise 1.0
-  description: A Virtualização do Ambiente de Trabalho da Microsoft Enterprise 1.0 segue a Política de Ciclo de Vida Fixo.
+  title: Microsoft Enterprise Desktop Virtualization 1.0
+  description: O Microsoft Enterprise Desktop Virtualization 1.0 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71dcb3cec051dba7376d58dc536d778ae7359f4a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "833409"
-name: Virtualização do Desktop da Microsoft Enterprise 1.0
+name: Microsoft Enterprise Desktop Virtualization 1.0
 summary: >
-  A Virtualização do Ambiente de Trabalho da Microsoft Enterprise 1.0 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Microsoft Enterprise Desktop Virtualization 1.0 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
   Isto aplica-se às seguintes edições: Enterprise
@@ -19,7 +19,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > O suporte para este produto terminou. Consulte a orientação da migração abaixo.
+  > O suporte para este produto terminou. Ver abaixo as orientações sobre migração.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 08/03/2008
   endDate: 04/12/2011
-content: "\n## <a name=\"links\"></a>Links \n* [Orientação para a migração](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Política de pacote de serviço](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edições \n* Empresa"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edições \n* Enterprise"

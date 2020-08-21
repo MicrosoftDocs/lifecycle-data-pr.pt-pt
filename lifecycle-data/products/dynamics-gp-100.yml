@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dinâmico GP 10.0
-  description: O Dynamics GP 10.0 segue a Política de Ciclo de Vida Fixo.
+  title: Dynamics GP 10,0
+  description: O Dynamics GP 10.0 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2cf687c6b390751074f0c89bbbd354f19257a5fe
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "833534"
-name: Dinâmico GP 10.0
+name: Dynamics GP 10,0
 summary: >+
-  O Dynamics GP 10.0 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Dynamics GP 10.0 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 08/04/2007
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Links \n* [Política de pacote de serviço](/lifecycle/policies/fixed#service-packs)\n* [Orientação para a migração](/dynamics-gp/upgrade/introduction)\n\n> [!NOTE]\n> Este produto está fora de suporte, veja abaixo para obter informações sobre migração."
+content: "\n## <a name=\"links\"></a>Ligações \n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n* [Orientações sobre migração](/dynamics-gp/upgrade/introduction)\n\n> [!NOTE]\n> Este produto está fora de suporte, veja abaixo informações sobre a migração."

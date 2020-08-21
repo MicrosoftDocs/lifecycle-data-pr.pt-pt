@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Serviços de atualização do servidor do Windows 3.0
-  description: Os Serviços de Atualização do Servidor do Windows 3.0 seguem a Política de Ciclo de Vida Fixo.
+  title: Windows Server Update Services 3.0
+  description: O Windows Server Update Services 3.0 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: b5e6ed046b5497010706f64c93962f1c4af0e2a0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "833627"
-name: Serviços de atualização do servidor do Windows 3.0
+name: Windows Server Update Services 3.0
 summary: >
-  Os Serviços de Atualização do Servidor do Windows 3.0 seguem a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Windows Server Update Services 3.0 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > O apoio terminou. Consulte a orientação da migração abaixo.
+  > O suporte terminou. Ver abaixo as orientações sobre migração.
 products:
 - windows
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 07/10/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Links \n* [Orientação para a migração](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Política de pacote de serviço](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> O apoio foi alargado de 7/11/2017 para 1/14/2020."
+content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> O suporte foi alargado de 11/07/2017 para 14/01/2020."

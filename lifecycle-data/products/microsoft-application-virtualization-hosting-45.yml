@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Virtualização da aplicação microsoft hospedagem 4.5 para desktops windows
-  description: O Microsoft Application Virtualization Hosting 4.5 para Windows Desktops segue a Política de Ciclo de Vida Fixo.
+  title: Microsoft Application Virtualization Hosting 4.5 para Ambientes de Trabalho Windows
+  description: O Microsoft Application Virtualization Hosting 4.5 para Ambientes de Trabalho do Windows segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3cb5049ed11ed567b8b7c1f3bd51de8b00b27ee8
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "833473"
-name: Virtualização da aplicação microsoft hospedagem 4.5 para desktops windows
+name: Microsoft Application Virtualization Hosting 4.5 para Ambientes de Trabalho Windows
 summary: >
-  O Microsoft Application Virtualization Hosting 4.5 para Windows Desktops segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Microsoft Application Virtualization Hosting 4.5 para Ambientes de Trabalho do Windows segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
-  Isto aplica-se às seguintes edições: para desktops windows
+  Isto aplica-se às seguintes edições: para Ambientes de Trabalho do Windows
 
 
   > [!IMPORTANT]
 
-  > O suporte para este produto terminou. Consulte as informações de migração abaixo.
+  > O suporte para este produto terminou. Veja abaixo a informação sobre migração.
 products:
 - windows
 policyType: fixed
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 11/23/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Links \n* [Informações sobre produtos e migrações](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Política de pacote de serviço](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edições \n* para desktops windows"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Informação sobre o produto e migração](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edições \n* para Windows Desktops"
