@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2010
-  description: O Microsoft Office 2010 segue a Política de Ciclo de Vida Fixo.
+  description: O Microsoft Office 2010 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 38b07316aaa247313848fcb558d54d4dad2d9c37
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "833063"
 name: Microsoft Office 2010
 summary: >+
-  O Microsoft Office 2010 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Microsoft Office 2010 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
-  Isto aplica-se às seguintes edições: eAcademy, Home and Business, Home and Student, Pessoal, Profissional, Profissional Académico, Profissional Plus, Professional Plus, Professional Plus Home Use Program, Standard, Starter
+  Isto aplica-se às seguintes edições: eAcademy, Casa e Negócios, Casa e Estudantes, Pessoal, Professional, Professional Académico, Professional Plus, Professional Plus, Professional Plus Programa de Uso Doméstico, Standard, Starter
 
 products:
 - office
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Links \n* [Escritório 2010 fim do roteiro de apoio](/DeployOffice/office-2010-end-support-roadmap)\n* [Política de pacote de serviço](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edições \n* eAcademy\n* Casa e Negócios\n* Lar e Estudante\n* Pessoal\n* Profissional\n* Académico Profissional\n* Profissional Plus\n* Programa profissional de uso doméstico\n* Padrão\n* Entrada"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Mapa de objetivos do fim de suporte do Office 2010](/DeployOffice/office-2010-end-support-roadmap)\n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edições \n* eAcademy\n* Casa e Negócios\n* Casa e Estudantes\n* Pessoal\n* Professional\n* Versão para Estudantes\n* Professional Plus\n* Programa de Uso Doméstico Professional Plus\n* Standard\n* Starter"

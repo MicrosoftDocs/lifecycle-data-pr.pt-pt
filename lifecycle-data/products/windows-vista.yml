@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Vista
-  description: O Windows Vista segue a Política de Ciclo de Vida Fixo.
+  description: O Windows Vista segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: e2e6ab946bf405ed524f07047d055a786d7174dc
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "832906"
 name: Windows Vista
 summary: >
-  O Windows Vista segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Windows Vista segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
-  Isto aplica-se às seguintes edições: Business, Business N, Enterprise, Enterprise X64, Home Basic 64-bit, Home Basic N, Home Basic N 64-bit, Home Premium, Home Premium 64-bit, Starter, Ultimate, Ultimate 64-bit
+  Isto aplica-se às seguintes edições: Business, Business N, Enterprise, Enterprise X64, Home Basic, Home Basic 64 bit, Home Basic N, Home Basic N 64 bit, Home Premium, Home Premium 64 bit, Starter, Ultimate, Ultimate 64 bit
 
 
   > [!IMPORTANT]
 
-  > O suporte a este produto terminou, ver abaixo para informações sobre migração.
+  > O suporte para este produto terminou, veja abaixo a informação de migração.
 products:
 - windows
 policyType: fixed
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2007
   endDate: 04/13/2010
-content: "\n## <a name=\"links\"></a>Links \n* [Orientação para a migração](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Considerações de atualização e migração do Windows](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Política de pacote de serviço](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edições \n* Empresas\n* Negócio N\n* Empresa\n* Empresa X64\n* Home Basic\n* Home Basic 64-bit\n* Home Basic N\n* Home Basic N 64-bit\n* Prémio Domiciliário\n* Home Premium 64-bit\n* Entrada\n* Ultimate\n* Ultimate 64-bit"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Considerações de atualização e migração do Windows](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edições \n* Empresas\n* Business N\n* Enterprise\n* Empresarial X64\n* Home Basic\n* Home Basic 64-bit\n* Home Basic N\n* Home Basic N 64 bit\n* Home Premium\n* Home Premium 64 bit\n* Starter\n* Ultimate\n* Ultimate 64 bits"

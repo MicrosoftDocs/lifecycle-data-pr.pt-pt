@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Commerce Server 2009
-  description: O Microsoft Commerce Server 2009 segue a Política de Ciclo de Vida Fixo.
+  description: O Microsoft Commerce Server 2009 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: ca4dbecaf633f9551ab9af5e9a7fec7b0fe9f99e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "833428"
 name: Microsoft Commerce Server 2009
 summary: >
-  O Microsoft Commerce Server 2009 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Microsoft Commerce Server 2009 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
   Isto aplica-se às seguintes edições: Enterprise, Standard
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 04/23/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Links \n* [Dynamics 365 Visão geral da arquitetura do comércio](/dynamics365/commerce/commerce-architecture)\n* [Rio Azure](https://azure.microsoft.com/free/virtual-network/search/?OCID=AID2000128_SEM_Xp_oegAAAFhodQoD:20200628234515:s&msclkid=96a2c292042b18351aec9c6b2f5bfc8d&ef_id=Xp_oegAAAFhodQoD:20200628234515:s&dclid=CJrU8sXYpeoCFQ5kfgodDnQP4A)\n\n\n## <a name=\"editions\"></a>Edições \n* Empresa\n* Padrão"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Visão geral da arquitetura Dynamics 365 Commerce](/dynamics365/commerce/commerce-architecture)\n* [Azure](https://azure.microsoft.com/free/virtual-network/search/?OCID=AID2000128_SEM_Xp_oegAAAFhodQoD:20200628234515:s&msclkid=96a2c292042b18351aec9c6b2f5bfc8d&ef_id=Xp_oegAAAFhodQoD:20200628234515:s&dclid=CJrU8sXYpeoCFQ5kfgodDnQP4A)\n\n\n## <a name=\"editions\"></a>Edições \n* Enterprise\n* Standard"

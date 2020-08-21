@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Servidor de Armazenamento do Windows 2008
-  description: O Windows Storage Server 2008 segue a Política de Ciclo de Vida Fixo.
+  title: Windows Storage Server 2008
+  description: O Windows Storage Server 2008 segue a Política do Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5fcd64fc253504e9ffb8db1c34a0597cc550b12b
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "832741"
-name: Servidor de Armazenamento do Windows 2008
+name: Windows Storage Server 2008
 summary: >
-  O Windows Storage Server 2008 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Windows Storage Server 2008 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
-  Isto aplica-se às seguintes edições: Básico, Básico 32-Bit, Basic 64-bit, Basic Embedded, Basic Embedded 32-bit, Enterprise, Enterprise Embedded, Standard, Standard Embedded, Workgroup
+  Isto aplica-se às seguintes edições: Basic, Basic 32-Bit, Basic 64-bit, Basic Embedded, Basic Embedded 32-bit, Enterprise, Enterprise Embedded, Standard, Standard Embedded, Grupo de Trabalho
 
 
   > [!IMPORTANT]
 
-  > Este produto chegou ao fim do suporte. Veja abaixo a orientação da migração.
+  > Este produto atingiu o fim do suporte. Ver abaixo as orientações sobre migração.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Service Pack 2
   startDate: 07/19/2009
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Links \n* [Orientação para a migração](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Informações de upgrade do servidor](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Edições \n* Básico\n* Básico 32-Bit\n* Básico de 64 bits\n* Básico embutido\n* Básico Incorporado 32-bit\n* Empresa\n* Empresa Embutida\n* Padrão\n* Padrão Embutido\n* Grupo de trabalho"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Informação sobre a Atualização do Servidor](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Edições \n* Basic\n* Básico 32 Bit\n* Básico 64 bit\n* Basic Embedded\n* Basic Embedded 32 bit\n* Enterprise\n* Enterprise Embedded\n* Standard\n* Standard Embedded\n* Grupo de Trabalho"
