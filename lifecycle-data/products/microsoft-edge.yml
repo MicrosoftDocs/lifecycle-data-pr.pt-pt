@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Edge
+  description: O Microsoft Edge segue a Política moderna do ciclo de vida.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 2d9e751a4612eaa04e995711449c2c2851b5db72
+  ms.sourcegitcommit: f5095aa6fc41dcc71c883cae08719b5b6bf9585c
+  ms.translationtype: MT
+  ms.contentlocale: pt-PT
+  ms.lasthandoff: 08/20/2020
+  ms.locfileid: "905947"
+name: Microsoft Edge
+summary: >
+  O Microsoft Edge segue a Política [moderna](/lifecycle/policies/modern) do ciclo de vida.
+
+
+
+  > [!IMPORTANT]
+
+  > Por favor, note que a versão antiga deste produto termina suporte a 9 de março de 2021. Vem  [aqui](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) para saber mais.
+products:
+- microsoft-edge
+policyType: modern-on-prem
+supportDates:
+  start: 01/15/2020
+releases:
+- version: Original Release
+  startDate: 01/15/2020
+content: "\n## <a name=\"links\"></a>Links \n* [Sistemas operativos suportados pelo Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)"
