@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Servidor visual Studio Team Foundation 2013
-  description: Visual Studio Team Foundation Server 2013 segue a Política de Ciclo de Vida Fixo.
+  title: Visual Studio Team Foundation Server 2013
+  description: O Visual Studio Team Foundation Server 2013 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: b24e1b9ebaf9855024973bfa2ff6b7d90e3af408
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860668"
-name: Servidor visual Studio Team Foundation 2013
+name: Visual Studio Team Foundation Server 2013
 summary: >+
-  Visual Studio Team Foundation Server 2013 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Visual Studio Team Foundation Server 2013 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
-  Isto aplica-se às seguintes edições: Todas, Gestão de Lançamentos
+  Isto aplica-se às seguintes edições: Todos, Gestor de Lançamento
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 10/11/2016
-content: "\n## <a name=\"links\"></a>Links \n* [Informação sobre o Produto](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [Informação de manutenção](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Política de pacotes de serviços](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Para o Servidor de Gestão de Lançamentos para TFS 2013, a Atualização 4 será suportada de acordo com as diretrizes de política até 4/9/2024.\n\n## <a name=\"editions\"></a>Edições \n* Todos os\n* Gestão de Lançamentos"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Informação sobre o produto](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [Informações de manutenção](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Política do Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Para o Release Management Server para TFS 2013, a Atualização 4 será suportada de acordo com as diretrizes da política até 09/04/2024.\n\n## <a name=\"editions\"></a>Edições \n* Todos\n* Gestor de Lançamento"

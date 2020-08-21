@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Gestor de configuração do Microsoft System Center 2012
-  description: O Gestor de Configuração do Microsoft System Center 2012 segue a Política de Ciclo de Vida Fixo.
+  title: Gestor de Configuração do Microsoft System Center 2012
+  description: O Gestor de Configuração do Microsoft System Center 2012 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: dce8796f280b29e070bbf1d5bab55452f6e706e7
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860503"
-name: Gestor de configuração do Microsoft System Center 2012
+name: Gestor de Configuração do Microsoft System Center 2012
 summary: >+
-  O Gestor de Configuração do Microsoft System Center 2012 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Gestor de Configuração do Microsoft System Center 2012 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Links \n* [Política de pacote de serviço](/lifecycle/policies/fixed#service-packs)\n* [Documentação do Centro do Sistema](/system-center/#pivot=components&panel=components-all)\n* [Recursos do Centro do Sistema](https://www.microsoft.com/system-center/resources)"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n* [Documentação do System Center](/system-center/#pivot=components&panel=components-all)\n* [Recursos do System Center](https://www.microsoft.com/system-center/resources)"

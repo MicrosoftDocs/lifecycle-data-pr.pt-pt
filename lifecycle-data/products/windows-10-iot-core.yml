@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Núcleo IoT do Windows 10
-  description: O Windows 10 IoT Core segue a Política moderna do ciclo de vida.
+  title: Windows 10 IoT Core
+  description: O Windows 10 IoT Core segue a Política de Ciclo de Vida Moderna.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4de1aecc88c37d87a38cd5eca9274bcb4c854739
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860580"
-name: Núcleo IoT do Windows 10
+name: Windows 10 IoT Core
 summary: >
-  O Windows 10 IoT Core segue a Política [moderna](/lifecycle/policies/modern) do ciclo de vida.
+  O Windows 10 IoT Core segue a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
 
 
 
   > [!IMPORTANT]
 
-  > A Microsoft continuará a suportar pelo menos um Canal SemEstrais Windows 10 até 14 de outubro de 2025.
+  > A Microsoft continuará a suportar pelo menos uma Via de Atualizações Semianuais do Windows 10 até 14 de outubro de 2025.
 products:
 - windows
 policyType: modern-on-prem
@@ -40,4 +40,4 @@ releases:
 - version: Version 1607
   startDate: 08/02/2016
   endDate: 04/10/2018
-content: "\n## <a name=\"links\"></a>Links \n* [Informação sobre o Produto](/windows/iot-core/windows-iot-core)\n* [Folha de fatos do ciclo de vida das janelas](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [FAQ de ciclo de vida - Produtos Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> A menos que sejam adiadas, as atualizações de funcionalidades semi-anuais do Windows 10 podem ser instaladas antes da data de suporte do mainstream listada."
+content: "\n## <a name=\"links\"></a>Ligações \n* [Informação sobre o produto](/windows/iot-core/windows-iot-core)\n* [Ficha técnica do ciclo de vida do Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Perguntas Frequentes sobre o Ciclo de Vida - produtos do Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> A menos que sejam diferidas, as atualizações subsequentes de funcionalidades da Via de Atualização Semianual do Windows 10 poderão ser instaladas antes da data de fim do Suporte Base listada."

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Servidor de Armazenamento do Windows 2012 R2
-  description: O Windows Storage Server 2012 R2 segue a Política de Ciclo de Vida Fixo.
+  title: Windows Storage Server 2012 R2
+  description: O Windows Storage Server 2012 R2 segue a Política do Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4a27e9c473e898353e7d8d5f47cf6e19274320d8
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860691"
-name: Servidor de Armazenamento do Windows 2012 R2
+name: Windows Storage Server 2012 R2
 summary: >+
-  O Windows Storage Server 2012 R2 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Windows Storage Server 2012 R2 segue a Política do Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
-  Isto aplica-se às seguintes edições: Essencial, Standard, Workgroup
+  Isto aplica-se às seguintes edições: Essentials, Standard, Workgroup
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Links \n* [Orientação para a migração](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> O suporte mainstream e alargado para este produto foi alargado para fornecer aos clientes o prazo padrão de transição do ciclo de vida.\n> [!NOTE]\n> A data de início da edição do Essentials é 25 de setembro de 2014. \n\n## <a name=\"editions\"></a>Edições \n* Itens Essenciais\n* Padrão\n* Grupo de trabalho"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> O suporte Base e Alargado para este produto foi alargado para fornecer aos clientes o cronograma de transição do ciclo de vida padrão.\n> [!NOTE]\n> A data de início da edição Essentials é 25 de setembro de 2014. \n\n## <a name=\"editions\"></a>Edições \n* Essentials\n* Standard\n* Grupo de Trabalho"

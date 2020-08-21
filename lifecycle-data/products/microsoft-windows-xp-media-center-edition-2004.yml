@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Windows XP Media Center Edition 2004
-  description: O Microsoft Windows XP Media Center Edition 2004 segue a Política de Ciclo de Vida Fixo.
+  description: O Microsoft Windows XP Edição Media Center 2004 segue a Política de Ciclo de Vida Fixa.
   ms.date: 08/05/2020
   ms.openlocfilehash: 8dc0603e1db4f759c1d882a09a6b3d95ea08cbec
   ms.sourcegitcommit: cc83950a649c02cedd0a5a869702e8e5605d18ec
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 08/05/2020
   ms.locfileid: "883489"
 name: Microsoft Windows XP Media Center Edition 2004
 summary: >+
-  O Microsoft Windows XP Media Center Edition 2004 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Microsoft Windows XP Media Center Edition 2004 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
   Isto aplica-se às seguintes edições: Media Center
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/27/2003
   endDate: 10/10/2006
-content: "\n\n\n## <a name=\"editions\"></a>Edições \n* Centro de Mídia"
+content: "\n\n\n## <a name=\"editions\"></a>Edições \n* Media Center"
