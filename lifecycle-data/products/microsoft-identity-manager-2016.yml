@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Identity Manager 2016
-  description: O Microsoft Identity Manager 2016 segue a Política de Ciclo de Vida Fixo.
+  description: O Microsoft Identity Manager 2016 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 81b15d013b9c79646892295de5477fc3bd4b2dbc
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860417"
 name: Microsoft Identity Manager 2016
 summary: >+
-  O Microsoft Identity Manager 2016 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Microsoft Identity Manager 2016 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 09/28/2015
   endDate: 10/10/2017
-content: "\n## <a name=\"links\"></a>Links \n* [O Azure Support está disponível para componentes de integração AZure AD até ao final do Suporte Alargado para o Microsoft Identity Manager 2016.](/microsoft-identity-manager/support-update-for-azure-active-directory-premium-customers)\n* [Planos de apoio Azure.](https://azure.microsoft.com/support/plans/)\n* [Política de pacote de serviço](/lifecycle/policies/fixed#service-packs)\n* [Informações sobre o produto](/microsoft-identity-manager/microsoft-identity-manager-2016)"
+content: "\n## <a name=\"links\"></a>Ligações \n* [O Suporte do Azure está disponível para componentes de integração do Azure AD até ao final do Suporte Alargado para o Microsoft Identity Manager 2016.](/microsoft-identity-manager/support-update-for-azure-active-directory-premium-customers)\n* [Planos de suporte do Azure.](https://azure.microsoft.com/support/plans/)\n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n* [Informações sobre produtos](/microsoft-identity-manager/microsoft-identity-manager-2016)"

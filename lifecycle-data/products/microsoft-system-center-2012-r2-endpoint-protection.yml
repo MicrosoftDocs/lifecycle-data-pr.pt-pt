@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft System Center 2012 R2 Endpoint Protection
-  description: O Microsoft System Center 2012 R2 Endpoint Protection segue a Política de Ciclo de Vida Fixo.
+  description: O Microsoft System Center 2012 R2 Endpoint Protection segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8e3f5935bc3b59d2a18a967b2bb5001c0ce01c1d
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860382"
 name: Microsoft System Center 2012 R2 Endpoint Protection
 summary: >+
-  O Microsoft System Center 2012 R2 Endpoint Protection segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Microsoft System Center 2012 R2 Endpoint Protection segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/16/2014
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>Links \n* [Informação de manutenção](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [Orientação para a migração](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Política de pacote de serviço](/lifecycle/policies/fixed#service-packs)\n* [Documentação do Gestor de Pontos Finais da Microsoft](/mem/)\n\n> [!NOTE]\n> Os clientes devem manter-se atualizados com a mais recente atualização da plataforma anti-malware para serem totalmente suportados."
+content: "\n## <a name=\"links\"></a>Ligações \n* [Informações de manutenção](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [Orientações sobre migração](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n* [Documentação do Microsoft Endpoint Manager](/mem/)\n\n> [!NOTE]\n> Os clientes devem permanecer atualizados com a última atualização da plataforma anti-malware para terem o suporte completo."

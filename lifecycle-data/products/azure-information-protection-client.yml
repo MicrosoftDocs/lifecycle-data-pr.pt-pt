@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Cliente de Proteção de Informação Azure
-  description: O cliente Azure Information Protection segue a Política Moderna do Ciclo de Vida.
+  title: Cliente do Azure Information Protection
+  description: O cliente do Azure Information Protection segue a Política de Ciclo de Vida Moderna.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a7e2c02d8f1d7ca3f071b5f36b97eab364b3340
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860276"
-name: Cliente de Proteção de Informação Azure
+name: Cliente do Azure Information Protection
 summary: >+
-  O cliente Azure Information Protection segue a Política [Moderna](/lifecycle/policies/modern) do Ciclo de Vida.
+  O cliente do Azure Information Protection segue a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/01/2016
   endDate: 03/31/2021
-content: "\n## <a name=\"links\"></a>Links \n* [Informação de manutenção](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Orientação para a migração](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> Para proporcionar uma experiência unificada e simplificada ao cliente, o cliente Azure Information Protection (clássico) e a Label Management no Portal Azure estão a ser depreciados a partir de 31 de março de 2021. Este prazo permite que todos os clientes atuais da Azure Information Protection transitem para a nossa solução de rotulagem unificada utilizando a plataforma de rotulagem unificada da Microsoft Information Protection."
+content: "\n## <a name=\"links\"></a>Ligações \n* [Informações de manutenção](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Orientações sobre migração](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> Para proporcionar uma experiência unificada e simplificada ao cliente, o cliente Azure Information Protection (clássico) e o Label Management no Portal Azure estão sendo preteridos a partir de 31 de março de 2021. Este prazo permite que todos os atuais clientes do Azure Information Protection transitem para a nossa solução unificada de etiquetagem usando a plataforma de Etiquetagem Unificada da Microsoft Information Protection."
