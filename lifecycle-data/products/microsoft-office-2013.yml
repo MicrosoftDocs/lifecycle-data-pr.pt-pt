@@ -2,19 +2,19 @@
 metadata:
   title: Microsoft Office 2013
   description: O Microsoft Office 2013 segue a Política de Ciclo de Vida Fixa.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 57eeaf9939d11f53914fef0e92795621dfb9db44
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 144877196e495c44a75cc95487426038c5321751
+  ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
   ms.translationtype: HT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "860733"
+  ms.lasthandoff: 08/20/2020
+  ms.locfileid: "905259"
 name: Microsoft Office 2013
 summary: >+
   O Microsoft Office 2013 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
-  Isto aplica-se às seguintes edições: Casa e Negócios, Casa e Estudantes, Professional, Professional Plus, Programa de Uso Doméstico Professional Plus, Standard, Web Apps Server
+  Isto aplica-se às seguintes edições: Casa e Negócios, Casa e Estudantes, Multi Language Pack, Professional, Professional Plus, Professional Plus Programa de Direitos de Utilização Doméstica, Standard, Web Apps Server
 
 products:
 - office
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> O Service Pack 1 não se aplica à edição do Web Apps Server. \n\n## <a name=\"editions\"></a>Edições \n* Casa e Negócios\n* Casa e Estudantes\n* Professional\n* Professional Plus\n* Programa de Uso Doméstico Professional Plus\n* Standard\n* Web Apps Server"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> O Service Pack 1 não se aplica à edição do Web Apps Server. \n\n## <a name=\"editions\"></a>Edições \n* Casa e Negócios\n* Casa e Estudantes\n* Multi Language Pack\n* Professional\n* Professional Plus\n* Programa de Uso Doméstico Professional Plus\n* Standard\n* Web Apps Server"

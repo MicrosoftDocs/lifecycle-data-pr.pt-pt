@@ -2,19 +2,19 @@
 metadata:
   title: Windows Server 2012
   description: O Windows Server 2012 segue a Política de Ciclo de Vida Fixa.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 3afe3de568f6e9b7eef58b6af132ff3ad4526724
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/21/2020
+  ms.openlocfilehash: c6ef77a2f2ee2a4579f3258e26b189e3600db600
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: HT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "860746"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906964"
 name: Windows Server 2012
 summary: >+
   O Windows Server 2012 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
-  Isto aplica-se às seguintes edições: Datacenter, Essentials, para Embedded Systems, Foundation, Standard
+  Isto aplica-se às seguintes edições: Datacenter, Essentials, External Connector, para Embedded Systems, Foundation, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](/windows-server/upgrade/upgrade-overview)\n* [Informações sobre produtos](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> O suporte Base e Alargado para este produto foi alargado para fornecer aos clientes o cronograma de transição do ciclo de vida padrão. Windows Server Essentials lançado a 2 de janeiro de 2013.\n\n## <a name=\"editions\"></a>Edições \n* Datacenter\n* Essentials\n* para Embedded Systems\n* Foundation\n* Standard"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](/windows-server/upgrade/upgrade-overview)\n* [Informações sobre produtos](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> O suporte Base e Alargado para este produto foi alargado para fornecer aos clientes o cronograma de transição do ciclo de vida padrão. Windows Server Essentials lançado a 2 de janeiro de 2013.\n\n## <a name=\"editions\"></a>Edições \n* Datacenter\n* Essentials\n* External Connector\n* para Embedded Systems\n* Foundation\n* Standard"
