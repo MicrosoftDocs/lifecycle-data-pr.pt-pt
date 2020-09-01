@@ -2,13 +2,14 @@
 metadata:
   title: Gestor de dispositivos incorporado do Windows 2011
   description: O Gestor de Dispositivos Incorporado do Windows 2011 segue a Política de Ciclo de Vida Fixo.
-  ms.date: 08/21/2020
-  ms.openlocfilehash: 7d43dfd6726e8314bd4c05bb6d54c91aca80ab7b
-  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
+  ms.date: 09/01/2020
+  keywords: Client,SDK,Server
+  ms.openlocfilehash: 8d46a10b12894b95bfb25872c893b3148aa7a550
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 08/21/2020
-  ms.locfileid: "906790"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939938"
 name: Gestor de dispositivos incorporado do Windows 2011
 summary: >
   O Gestor de Dispositivos Incorporado do Windows 2011 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
@@ -34,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 05/29/2011
   endDate: 01/08/2013
-content: "\n## <a name=\"links\"></a>Links \n* [Política de pacote de serviço](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edições \n* Cliente\n* SDK\n* Server"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edições \n* Cliente\n* SDK\n* Server"
