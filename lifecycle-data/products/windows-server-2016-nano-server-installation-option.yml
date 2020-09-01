@@ -2,13 +2,14 @@
 metadata:
   title: Opção de instalação do Servidor Nano do Windows Server 2016
   description: A opção de instalação do Servidor Nano do Windows Server 2016 segue a Política de Ciclo de Vida Moderna.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 6c8189a0fe39fe3ad0b79147e0b2ddbd67e3f799
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Datacenter,Standard
+  ms.openlocfilehash: bff4ec8ee63d0221e316da49081ebc964e520966
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "860745"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939420"
 name: Opção de instalação do Servidor Nano do Windows Server 2016
 summary: >+
   A opção de instalação do Servidor Nano do Windows Server 2016 segue a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).

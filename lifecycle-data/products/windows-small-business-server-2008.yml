@@ -2,13 +2,14 @@
 metadata:
   title: Windows Small Business Server 2008
   description: O Windows Small Business Server 2008 segue a Política de Ciclo de Vida Fixa.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: ca524a5b2238d362198454212c1b53d9946cdb05
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Premium,Standard
+  ms.openlocfilehash: 947f1cc48a1ef1b5397103a64ce7fb2f3e52db2d
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "832910"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939198"
 name: Windows Small Business Server 2008
 summary: "O Windows Small Business Server 2008 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).\n\nIsto aplica-se às seguintes edições: Premium, Standard\n\n> [!IMPORTANT]\n> O suporte para este produto terminou. \n\nA data de suporte deste pacote de produtos é determinada pelos ciclos de vida respetivos dos seus produtos componentes individuais. Por favor, reveja o ciclo de vida do produto de componente individual para determinar a duração do suporte.\n"
 products:

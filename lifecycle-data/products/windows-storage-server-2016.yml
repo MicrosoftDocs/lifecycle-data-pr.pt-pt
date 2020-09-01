@@ -2,13 +2,14 @@
 metadata:
   title: Servidor de Armazenamento do Windows 2016
   description: O Windows Storage Server 2016 segue a Política de Ciclo de Vida Fixo.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: f29c2a9498dac1ce791c1b9f1967d132a0bdec98
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Standard,Workgroup
+  ms.openlocfilehash: 3c0a7d1d5f6f5a73282c35ad96c1b0a036f938d1
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "860483"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938976"
 name: Servidor de Armazenamento do Windows 2016
 summary: >+
   O Windows Storage Server 2016 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/15/2016
   endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>Links \n* [FAQ de ciclo de vida - Produtos Windows](/lifecycle/faq/windows)\n* [Informações sobre o produto](/windows-server/storage/whats-new-in-storage)\n\n\n## <a name=\"editions\"></a>Edições \n* Padrão\n* Grupo de trabalho"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Perguntas Frequentes sobre o Ciclo de Vida - produtos do Windows](/lifecycle/faq/windows)\n* [Informações sobre produtos](/windows-server/storage/whats-new-in-storage)\n\n\n## <a name=\"editions\"></a>Edições \n* Standard\n* Grupo de Trabalho"
