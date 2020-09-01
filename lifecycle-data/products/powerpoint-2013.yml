@@ -2,13 +2,14 @@
 metadata:
   title: PowerPoint 2013
   description: O PowerPoint 2013 segue a Política de Ciclo de Vida Fixo.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0fedb46f520e61546bca7e664f1bcb0f04d5b10d
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 04ce16dd515217f7697f3cf2cc1a0ad22cd3ea19
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "860713"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "926951"
 name: PowerPoint 2013
 summary: >+
   O PowerPoint 2013 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n\n## <a name=\"editions\"></a>Edições \n* Padrão"
+content: "\n\n\n## <a name=\"editions\"></a>Edições \n* Standard"
