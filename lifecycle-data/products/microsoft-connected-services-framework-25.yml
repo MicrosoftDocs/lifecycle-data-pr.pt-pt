@@ -2,13 +2,14 @@
 metadata:
   title: Quadro de serviços conectados da Microsoft 2.5
   description: O Microsoft Connected Services Framework 2.5 segue a Política de Ciclo de Vida Fixo.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 1475487e7ff1f7d6b5a54e58a3ba2b45e9a7ccf8
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Order Handling Standard Business Event 2.5,Server,Service Provider
+  ms.openlocfilehash: e0cdc315d310b2a6ed3c705261592af5be8ca851
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "833425"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934129"
 name: Quadro de serviços conectados da Microsoft 2.5
 summary: >+
   O Microsoft Connected Services Framework 2.5 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
