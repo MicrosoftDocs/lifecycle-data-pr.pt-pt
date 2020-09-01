@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft SharePoint Server 2010
   description: O Microsoft SharePoint Server 2010 segue a Política de Ciclo de Vida Fixa.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 71adef7342f1471a67bd170430b3470dc6ea1a87
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Access Services,All applicable,Excel Services,Performance Point Services
+  ms.openlocfilehash: 0960eb0d25273c7cdca16fa4019b4b2e7b044900
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "832800"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "929837"
 name: Microsoft SharePoint Server 2010
 summary: >+
   O Microsoft SharePoint Server 2010 segue a Política do Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
