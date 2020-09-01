@@ -2,13 +2,14 @@
 metadata:
   title: BizTalk Server 2020
   description: O BizTalk Server 2020 segue a Política de Ciclo de Vida Fixo.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 8fd9d3d641c7f964463ccf25efc3b451879c86bf
-  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
+  ms.date: 09/01/2020
+  keywords: Branch,Developer,Enterprise,Standard
+  ms.openlocfilehash: 029f4f55b44e8b40b27261ba44bdd3cef775e6d0
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 08/12/2020
-  ms.locfileid: "891928"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932131"
 name: BizTalk Server 2020
 summary: >+
   O BizTalk Server 2020 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 02/01/2020
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Links \n* [Informações sobre o produto](/biztalk/install-and-config-guides/biztalk-server-2020-whats-new-and-installation)\n\n\n## <a name=\"editions\"></a>Edições \n* Ramo\n* Desenvolvedor\n* Empresa\n* Padrão"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Informações sobre produtos](/biztalk/install-and-config-guides/biztalk-server-2020-whats-new-and-installation)\n\n\n## <a name=\"editions\"></a>Edições \n* Branch\n* Developer\n* Enterprise\n* Standard"

@@ -2,13 +2,14 @@
 metadata:
   title: Sistema de Plataforma de Nuvem
   description: O Sistema de Plataformas cloud segue a Política de Ciclo de Vida Fixo.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 132fd3832cd1d0927fe7ce6af7eb8e0a21e8d308
-  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 77f8b0e296d10279130459a1c0917c04382c26bc
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 08/12/2020
-  ms.locfileid: "891891"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932057"
 name: Sistema de Plataforma de Nuvem
 summary: >+
   O Sistema de Plataformas cloud segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> O suporte para o Cloud Platform System é estendido de forma a fornecer a todos os clientes a linha de tempo padrão de transição do ciclo de vida.\n> [!NOTE]\n> Cloud Platform System Standard foi lançado a 18 de setembro de 2017.\n\n## <a name=\"editions\"></a>Edições \n* Padrão"
+content: "\n\n> [!NOTE]\n> O suporte para o Cloud Platform System é estendido de forma a fornecer a todos os clientes a linha de tempo padrão de transição do ciclo de vida.\n> [!NOTE]\n> Cloud Platform System Standard foi lançado a 18 de setembro de 2017.\n\n## <a name=\"editions\"></a>Edições \n* Standard"

@@ -2,13 +2,14 @@
 metadata:
   title: Lync 2013
   description: A Lync 2013 segue a Política de Ciclo de Vida Fixo.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 009c0c9a5f3eae47f5abd1b83b81dcc98bba3482
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: SDK,Standard
+  ms.openlocfilehash: a5523cba92283c421c42d23d9753864a0408bf01
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "860405"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933352"
 name: Lync 2013
 summary: >+
   A Lync 2013 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n> [!NOTE]\n> O lançamento do Cliente Skype for Business 2015 é uma atualização para o Cliente Lync 2013 e seguirá o mesmo ciclo de vida do produto.\nA data de início para a Lync 2013 SDK é 23 de fevereiro de 2013. \n\n## <a name=\"editions\"></a>Edições \n* SDK\n* Padrão"
+content: "\n\n> [!NOTE]\n> O lançamento do Cliente Skype for Business 2015 é uma atualização para o Cliente Lync 2013 e seguirá o mesmo ciclo de vida do produto.\nA data de início para a Lync 2013 SDK é 23 de fevereiro de 2013. \n\n## <a name=\"editions\"></a>Edições \n* SDK\n* Standard"

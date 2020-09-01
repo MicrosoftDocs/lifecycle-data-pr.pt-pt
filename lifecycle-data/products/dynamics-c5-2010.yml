@@ -2,13 +2,14 @@
 metadata:
   title: Dinâmica C5 2010
   description: A Dinâmica C5 2010 segue a Política de Ciclo de Vida Fixo.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 42e669783f2448e3ff9834c2ec8d0924b65b408b
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: f391af0a4393f73c8cdc73a17e71a011b8aaa7fc
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "833547"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932020"
 name: Dinâmica C5 2010
 summary: >+
   A Dinâmica C5 2010 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
@@ -32,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 11/30/2009
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Links \n* [Política de pacote de serviço](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edições \n* Padrão"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edições \n* Standard"
