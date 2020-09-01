@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft System Center Essentials 2010
   description: O Microsoft System Center Essentials 2010 segue a Política de Ciclo de Vida Fixo.
-  ms.date: 08/21/2020
-  ms.openlocfilehash: 469c101b597227f04b8e412e71b888037fc38577
-  ms.sourcegitcommit: 58c6a4bf0c3ef066969422e3acf340702facef6e
+  ms.date: 09/01/2020
+  keywords: All applicable,wSQL
+  ms.openlocfilehash: 93f05c6b49b851871ea5d7f6a2066310ae3144e2
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 08/21/2020
-  ms.locfileid: "906268"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938199"
 name: Microsoft System Center Essentials 2010
 summary: >+
   O Microsoft System Center Essentials 2010 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/28/2010
   endDate: 10/13/2020
-content: "\n\n\n## <a name=\"editions\"></a>Edições \n* Tudo aplicável\n* wSQL"
+content: "\n\n\n## <a name=\"editions\"></a>Edições \n* Todos aplicáveis\n* wSQL"
