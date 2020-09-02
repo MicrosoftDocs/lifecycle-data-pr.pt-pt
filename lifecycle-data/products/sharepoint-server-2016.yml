@@ -2,13 +2,14 @@
 metadata:
   title: SharePoint Server 2016
   description: O SharePoint Server 2016 segue a Política de Ciclo de Vida Fixo.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: b3049f78b9b57515f5a9b5966af4c72f30932824
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: ''
+  ms.openlocfilehash: 14f1c2b997bd6d39354b686f28c341218d41abc5
+  ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
   ms.translationtype: MT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "860680"
+  ms.lasthandoff: 09/02/2020
+  ms.locfileid: "941745"
 name: SharePoint Server 2016
 summary: >+
   O SharePoint Server 2016 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
@@ -25,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2016
   endDate: 07/14/2026
-content: "\n## <a name=\"links\"></a>Links \n* [Informação de Manutenção](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Informação de Manutenção](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n\n> [!NOTE]\n> Consulte a documentação [do produto](https://docs.microsoft.com/sharepoint/sharepoint-server) e [do desenvolvedor](https://developer.microsoft.com/sharepoint/docs)"
