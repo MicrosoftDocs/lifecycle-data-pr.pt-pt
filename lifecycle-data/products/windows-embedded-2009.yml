@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Embedded 2009
-  description: O Windows Embedded 2009 segue a Política de Ciclo de Vida Fixo.
+  description: O Windows Embedded 2009 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1b701f08089fe9a7208f51de8f7a6d55f839528c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "833283"
 name: Windows Embedded 2009
 summary: >
-  O Windows Embedded 2009 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Windows Embedded 2009 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
   Isto aplica-se às seguintes edições: Standard
@@ -19,7 +19,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > O apoio terminou. Consulte a orientação da migração abaixo.
+  > O suporte terminou. Ver abaixo as orientações sobre migração.
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 12/14/2008
   endDate: 01/08/2019
-content: "\n## <a name=\"links\"></a>Links \n* [Fim do suporte para Windows Embedded 2009](/lifecycle/announcements/windows-embedded-2009-end-of-support)\n* [Empresa Windows 10 IoT](https://www.microsoft.com/en-us/windowsforbusiness/windows-iot)\n* [Windows 10 Pro](https://www.microsoft.com/windowsforbusiness/windows-10-pro)\n\n\n## <a name=\"editions\"></a>Edições \n* Padrão"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Fim do suporte para o Windows Embedded 2009](/lifecycle/announcements/windows-embedded-2009-end-of-support)\n* [Windows 10 IoT Enterprise](https://www.microsoft.com/en-us/windowsforbusiness/windows-iot)\n* [Windows 10 Pro](https://www.microsoft.com/windowsforbusiness/windows-10-pro)\n\n\n## <a name=\"editions\"></a>Edições \n* Standard"

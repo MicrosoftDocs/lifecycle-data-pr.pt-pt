@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Forefront Threat Management Gateway Web Protection Services
-  description: Os serviços de proteção web da Microsoft Front Management Gateway seguem a Política de Ciclo de Vida Fixo.
+  description: O Microsoft Forefront Threat Management Gateway Web Protection Services segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: c4c69a070513e336ed8305b8f6a37c2bf5972d1c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "833399"
 name: Microsoft Forefront Threat Management Gateway Web Protection Services
 summary: >+
-  Os serviços de proteção web da Microsoft Front Management Gateway seguem a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Microsoft Forefront Threat Management Gateway Web Protection Services segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 12/01/2009
   endDate: 12/31/2015
-content: "\n## <a name=\"links\"></a>Links \n* [Roteiro da vanguarda](https://blogs.technet.microsoft.com/hybridcloud/2012/09/12/important-changes-to-forefront-product-roadmaps/)\n\n> [!NOTE]\n> O roteiro para produtos de segurança sob a marca Forefront mudou.Este produto é descontinuado a 31 de dezembro de 2015."
+content: "\n## <a name=\"links\"></a>Ligações \n* [Mapa de objetivos do Forefront](https://blogs.technet.microsoft.com/hybridcloud/2012/09/12/important-changes-to-forefront-product-roadmaps/)\n\n> [!NOTE]\n> O mapa de objetivos para produtos de segurança sob a marca Forefront foi alterado. Este produto foi descontinuado a 31 de dezembro de 2015.\n\n\n"
