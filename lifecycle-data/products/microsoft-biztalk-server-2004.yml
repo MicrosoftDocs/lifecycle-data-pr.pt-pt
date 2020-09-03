@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft BizTalk Server 2004
-  description: O Microsoft BizTalk Server 2004 segue a Política de Ciclo de Vida Fixo.
+  description: O Microsoft BizTalk Server 2004 segue a Política de Ciclo de Vida Fixa.
   ms.date: 08/12/2020
   ms.openlocfilehash: 3601a186f2016a32ea40ef7bf59e484940d7d4b0
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893584"
 name: Microsoft BizTalk Server 2004
 summary: >+
-  O Microsoft BizTalk Server 2004 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Microsoft BizTalk Server 2004 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
   Isto aplica-se às seguintes edições: Developer, Enterprise, Partner, Standard
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 05/20/2004
   endDate: 04/11/2006
-content: "\n## <a name=\"links\"></a>Links \n* [Política de pacote de serviço](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edições \n* Desenvolvedor\n* Empresa\n* Parceiro\n* Padrão"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edições \n* Developer\n* Enterprise\n* Partner\n* Standard"
