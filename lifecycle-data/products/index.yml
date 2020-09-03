@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
-title: Informação sobre o ciclo de vida do produto de pesquisa e serviços (pré-visualização)
+title: Pesquisa de Informação sobre o Ciclo de Vida de Produtos e Serviços (Pré-visualização)
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> Esta página está em desenvolvimento e será totalmente ao vivo no dia 2 de setembro. Entretanto, poderá ver uma lista completa de produtos da Microsoft com as suas linhas de tempo de suporte e detalhes em [aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> Exporte informações sobre o ciclo de vida da página de Exportação do [ciclo de vida.](/lifecycle/export/products)\n\n\nO Microsoft Lifecycle fornece diretrizes consistentes e previsíveis para suporte ao longo da vida de um produto, ajudando os clientes a gerir os seus investimentos e ambientes de TI enquanto planeiam estrategicamente para o futuro.\n\n\nProcure abaixo uma lista de produtos e serviços comerciais da Microsoft e, em seguida, selecione o seu resultado para encontrar tempos de suporte e manutenção, atualizações necessárias, informações de migração e requisitos do sistema."
+summary: "\n\n> [!IMPORTANT]\n> Esta página está em desenvolvimento e estará totalmente operacional a 2 de setembro. No entretanto, pode ver uma lista completa de produtos da Microsoft com os respetivos cronogramas e detalhes de suporte em [aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> Exportar informação sobre o ciclo de vida da página de [Exportação do Ciclo de Vida](/lifecycle/export/products).\n\n\nO Microsoft Lifecycle fornece diretrizes consistentes e previsíveis para o suporte de um produto ao longo da sua vida, ajudando os clientes a gerir os seus investimentos e ambientes de TI enquanto planeiam estrategicamente para o futuro.\n\n\nPesquise abaixo uma lista de produtos e serviços comerciais da Microsoft e selecione o seu resultado para encontrar cronogramas de suporte e manutenção, atualizações necessárias, informação de migração e requisitos do sistema."
 metadata:
   ms.openlocfilehash: 5099408b03db5a7d520128dfd1da8271e4289aaa
   ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 08/17/2020
   ms.locfileid: "899851"
