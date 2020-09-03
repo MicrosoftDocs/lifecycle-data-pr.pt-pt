@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dinâmica POS 2009
-  description: A Dynamics POS 2009 segue a Política de Ciclo de Vida Fixo.
+  title: Dynamics POS 2009
+  description: Dynamics POS 2009 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2a1ad92ea731fb673d0cc7dd8d4abf893986f5da
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "833098"
-name: Dinâmica POS 2009
+name: Dynamics POS 2009
 summary: >+
-  A Dynamics POS 2009 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Dynamics POS 2009 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/17/2009
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Links \n* [Orientação para a migração](https://community.dynamics.com/rms/b/rmssupport/archive/2014/07/17/pos-2009-end-of-mainstream-support)\n* [Informações sobre o produto](https://dynamics.microsoft.com/en-us/?&WT.srch)\n* [Política de pacote de serviço](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](https://community.dynamics.com/rms/b/rmssupport/archive/2014/07/17/pos-2009-end-of-mainstream-support)\n* [Informações sobre produtos](https://dynamics.microsoft.com/en-us/?&WT.srch)\n* [Política do service pack](/lifecycle/policies/fixed#service-packs)"

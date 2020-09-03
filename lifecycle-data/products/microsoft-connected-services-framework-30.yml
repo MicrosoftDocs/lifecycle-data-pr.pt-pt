@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Quadro de serviços conectados da Microsoft 3.0
-  description: O Microsoft Connected Services Framework 3.0 segue a Política de Ciclo de Vida Fixo.
+  title: Microsoft Connected Services Framework 3.0
+  description: O Microsoft Connected Services Framework 3.0 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: f30c38e094a3b58f587d59871bd573607df04273
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "833422"
-name: Quadro de serviços conectados da Microsoft 3.0
+name: Microsoft Connected Services Framework 3.0
 summary: >+
-  O Microsoft Connected Services Framework 3.0 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Microsoft Connected Services Framework 3.0 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
-  Isto aplica-se às seguintes edições: Billing Standard Business Event, Order Handling Standard Business Event, Server, Standard, Standard, Standard Com Eventos Empresariais Padrão
+  Isto aplica-se às seguintes edições: Billing Standard Business Event, Order Handling Standard Business Event, Server, Standard, Standard Server with Standard Business Events
 
 products:
 - connected-services-framework
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/30/2006
   endDate: 07/12/2016
-content: "\n\n\n## <a name=\"editions\"></a>Edições \n* Evento de negócios standard de faturação\n* Evento de negócios padrão de manuseamento de encomendas\n* Server\n* Padrão\n* Servidor Padrão com eventos de negócios padrão"
+content: "\n\n\n## <a name=\"editions\"></a>Edições \n* Billing Standard Business Event\n* Order Handling Standard Business Event\n* Servidor\n* Standard\n* Standard Server with Standard Business Events"

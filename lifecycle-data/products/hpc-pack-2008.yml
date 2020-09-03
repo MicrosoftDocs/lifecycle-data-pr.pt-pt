@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Pacote HPC 2008
-  description: O HPC Pack 2008 segue a Política de Ciclo de Vida Fixo.
+  title: HPC Pack 2008
+  description: O HPC Pack 2008 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 795c6eef31bb7b6a3edcf1d90a193d682c89933a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "833506"
-name: Pacote HPC 2008
+name: HPC Pack 2008
 summary: >
-  O HPC Pack 2008 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O HPC Pack 2008 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > O suporte para este produto terminou. Consulte a orientação da migração abaixo.
+  > O suporte para este produto terminou. Ver abaixo as orientações sobre migração.
 products:
 - windows
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 12/29/2008
   endDate: 10/11/2011
-content: "\n## <a name=\"links\"></a>Links \n* [Orientação para a migração](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Política de pacote de serviço](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Política do service pack](/lifecycle/policies/fixed#service-packs)"
