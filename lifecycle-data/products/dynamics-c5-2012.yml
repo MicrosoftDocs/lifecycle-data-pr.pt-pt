@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dinâmica C5 2012
-  description: A Dinâmica C5 2012 segue a Política de Ciclo de Vida Fixo.
+  title: Dynamics C5 2012
+  description: O Dynamics C5 2012 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0e2fde2211933228e6bd97265e65fd5c7d711bde
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860556"
-name: Dinâmica C5 2012
+name: Dynamics C5 2012
 summary: >+
-  A Dinâmica C5 2012 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Dynamics C5 2012 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
   Isto aplica-se às seguintes edições: Standard
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 01/10/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Links \n* [Orientação para a migração](/dynamics-nav-app/localfunctionality/denmark/ui-extensions-c5-data-migration)\n* [Política de pacote de serviço](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edições \n* Padrão"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](/dynamics-nav-app/localfunctionality/denmark/ui-extensions-c5-data-migration)\n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edições \n* Standard"

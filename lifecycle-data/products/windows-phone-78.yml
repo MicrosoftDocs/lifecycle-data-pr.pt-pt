@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Phone 7.8
-  description: O Windows Phone 7.8 segue a Política de Ciclo de Vida Fixo.
+  description: O Windows Phone 7.8 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7ca5bd0f56f415c7c686e60ef7931172ce97a495
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860750"
 name: Windows Phone 7.8
 summary: >
-  O Windows Phone 7.8 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Windows Phone 7.8 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 02/09/2013
   endDate: 10/14/2014
-content: "\n\n> [!NOTE]\n> A Microsoft disponibilizará atualizações para o Sistema Operativo no seu telemóvel, incluindo atualizações de segurança, durante um período de 18 meses após a data de início do ciclo de vida. A distribuição das atualizações pode ser controlada pelo operador móvel ou pelo fabricante do telefone a partir do qual adquiriu o seu telemóvel. A disponibilidade de atualização também variará por país, região e capacidades de hardware."
+content: "\n\n> [!NOTE]\n> A Microsoft disponibilizará atualizações para o Sistema Operativo no seu telemóvel, incluindo atualizações de segurança, durante um período de 18 meses após a data de início do ciclo de vida. A distribuição das atualizações poderá ser controlada pela operadora de rede móvel ou pelo fabricante de telemóveis ao qual comprou o telemóvel. A disponibilidade das atualizações também irá variar consoante o país, região e capacidades de hardware."

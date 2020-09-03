@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Virtualização da Aplicação Microsoft 5.1
-  description: A Virtualização da Aplicação microsoft 5.1 segue a Política de Ciclo de Vida Fixo.
+  title: Microsoft Application Virtualization 5.1
+  description: O Microsoft Application Virtualization 5.1 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3f0cac2ee013dd73e44fe41d9ba1d07cfcfce2f1
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860434"
-name: Virtualização da Aplicação Microsoft 5.1
+name: Microsoft Application Virtualization 5.1
 summary: >+
-  A Virtualização da Aplicação microsoft 5.1 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Microsoft Application Virtualization 5.1 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
-  Isto aplica-se às seguintes edições: para Serviços remotos de Desktop, para Desktops Windows
+  Isto aplica-se às seguintes edições: para Serviços de Ambiente de Trabalho Remoto, para Windows Desktops
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2015
   endDate: 04/14/2026
-content: "\n## <a name=\"links\"></a>Links \n* [Informações sobre o produto](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n\n\n## <a name=\"editions\"></a>Edições \n* para serviços de desktop remoto\n* para desktops windows"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Informações sobre produtos](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n\n\n## <a name=\"editions\"></a>Edições \n* para Serviços de Desktop Remoto\n* para Windows Desktops"
