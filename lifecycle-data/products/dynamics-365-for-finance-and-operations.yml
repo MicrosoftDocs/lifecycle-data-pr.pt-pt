@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dinâmica 365 para Finanças e Operações
-  description: A Dinâmica 365 para Finanças e Operações segue a Política moderna do ciclo de vida.
+  title: Dynamics 365 for Finance and Operations
+  description: O Dynamics 365 for Finance and Operations segue a Política de Ciclo de Vida Moderna.
   ms.date: 07/28/2020
   ms.openlocfilehash: 04432837adaeae9ae5ec6f7cfad703875e45b772
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860560"
-name: Dinâmica 365 para Finanças e Operações
+name: Dynamics 365 for Finance and Operations
 summary: >+
-  A Dinâmica 365 para Finanças e Operações segue a Política [moderna](/lifecycle/policies/modern) do ciclo de vida.
+  O Dynamics 365 for Finance and Operations segue a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
 
 
   Isto aplica-se às seguintes edições: Enterprise
@@ -24,4 +24,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 02/19/2016
-content: "\n## <a name=\"links\"></a>Links \n* [Microsoft Dynamics 365 Roadmap](https://roadmap.dynamics.com/)\n* [Informação de manutenção](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)\n* [System requirements](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)\n\n\n## <a name=\"editions\"></a>Edições \n* Empresa"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Mapa de Objetivos do Microsoft Dynamics 365](https://roadmap.dynamics.com/)\n* [Informações de manutenção](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)\n* [Requisitos de sistema](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)\n\n\n## <a name=\"editions\"></a>Edições \n* Enterprise"
