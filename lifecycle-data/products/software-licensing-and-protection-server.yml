@@ -2,13 +2,14 @@
 metadata:
   title: Servidor de Proteção e Licenciamento de Software
   description: O Servidor de Proteção e Licenciamento de Software segue a Política de Ciclo de Vida Fixa.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9a42af57f9f0bfd7232e67126c6d9923413e06f6
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 567392e4c49c46a29c7f9f80730542f0ded21608
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "832790"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1001068"
 name: Servidor de Proteção e Licenciamento de Software
 summary: >
   O Servidor de Proteção e Licenciamento de Software segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
