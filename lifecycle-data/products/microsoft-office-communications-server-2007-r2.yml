@@ -2,13 +2,14 @@
 metadata:
   title: Office Communications Server 2007 R2
   description: O Microsoft Office Communications Server 2007 R2 segue a Política de Ciclo de Vida Fixa.
-  ms.date: 08/07/2020
-  ms.openlocfilehash: 229bad5ba97248c738f950b7252cd9c69e238cf1
-  ms.sourcegitcommit: 41160e72cd21aa5bf1748336c3975d8ec9b9ac06
+  ms.date: 09/10/2020
+  keywords: All applicable,Enterprise,XMPP Gateway
+  ms.openlocfilehash: f2ffe44d722e5b27e1ad852b480a531b49c729c0
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 08/07/2020
-  ms.locfileid: "885841"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1001798"
 name: Office Communications Server 2007 R2
 summary: "O Microsoft Office Communications Server 2007 R2 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).\n\nIsto aplica-se às seguintes edições: Todas aplicáveis, Enterprise, XMPP Gateway\n\n> [!IMPORTANT]\n> O suporte para este produto terminou. Ver orientações sobre migração. \n"
 products:
