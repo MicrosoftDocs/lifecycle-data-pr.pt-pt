@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2019 para Mac
-  description: O Microsoft Office 2019 para Mac segue a Política de Ciclo de Vida Fixo.
+  description: O Microsoft Office 2019 para Mac segue a Política de Ciclo de Vida Fixa.
   ms.date: 09/01/2020
   keywords: Academic,Home and Business,Home and Student,Standard
   ms.openlocfilehash: ec9caa375adfc5b23212e92160c6f3107344e1c6
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930429"
 name: Microsoft Office 2019 para Mac
 summary: >+
-  O Microsoft Office 2019 para Mac segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Microsoft Office 2019 para Mac segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
-  Isto aplica-se às seguintes edições: Académica, Casa e Negócios, Lar e Estudante, Standard
+  Isto aplica-se às seguintes edições: Academic, Casa e Negócios, Casa e Estudantes, Standard
 
 products:
 - office

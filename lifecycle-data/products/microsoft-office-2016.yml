@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2016
-  description: O Microsoft Office 2016 segue a Política de Ciclo de Vida Fixo.
+  description: O Microsoft Office 2016 segue a Política de Ciclo de Vida Fixa.
   ms.date: 09/01/2020
   keywords: Home and Business,Home and Student,Personal,Professional,Professional Plus,Standard
   ms.openlocfilehash: 7d2f310c7edad1f2fb5f6b6151add26c277c6ffe
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930503"
 name: Microsoft Office 2016
 summary: >+
-  O Microsoft Office 2016 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Microsoft Office 2016 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
-  Isto aplica-se às seguintes edições: Casa e Negócios, Lar e Estudante, Pessoal, Profissional, Profissional Plus, Standard
+  Isto aplica-se às seguintes edições: Casa e Negócios, Casa e Estudantes, Pessoal, Professional, Professional, Professional Plus, Standard
 
 products:
 - office
