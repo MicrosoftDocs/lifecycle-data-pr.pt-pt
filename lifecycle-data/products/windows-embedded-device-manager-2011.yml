@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Gestor de dispositivos incorporado do Windows 2011
-  description: O Gestor de Dispositivos Incorporado do Windows 2011 segue a Política de Ciclo de Vida Fixo.
+  title: Windows Embedded Device Manager 2011
+  description: O Windows Embedded Device Manager 2011 segue a Política de Ciclo de Vida Fixa.
   ms.date: 09/01/2020
   keywords: Client,SDK,Server
   ms.openlocfilehash: 8d46a10b12894b95bfb25872c893b3148aa7a550
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939938"
-name: Gestor de dispositivos incorporado do Windows 2011
+name: Windows Embedded Device Manager 2011
 summary: >
-  O Gestor de Dispositivos Incorporado do Windows 2011 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Windows Embedded Device Manager 2011 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
-  Isto aplica-se às seguintes edições: Cliente, SDK, Servidor
+  Isto aplica-se às seguintes edições: Cliente, SDK, Server
 
 
   > [!IMPORTANT]
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 05/29/2011
   endDate: 01/08/2013
-content: "\n## <a name=\"links\"></a>Ligações \n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edições \n* Cliente\n* SDK\n* Server"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edições \n* Cliente\n* SDK\n* Servidor"
