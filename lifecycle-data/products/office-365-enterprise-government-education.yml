@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Escritório 365 (Empresa, Governo, Educação)
-  description: O Office 365 (Empresa, Governo, Educação) segue a Política moderna do ciclo de vida.
+  title: Office 365 (Empresarial, Administração Pública, Educação)
+  description: O Office 365 (Empresarial, Administração Pública, Educação) segue a Política de Ciclo de Vida Moderna.
   ms.date: 07/28/2020
   ms.openlocfilehash: 81c940fa031fd8eea9e3895d72c1a046af048638
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860497"
-name: Escritório 365 (Empresa, Governo, Educação)
+name: Office 365 (Empresarial, Administração Pública, Educação)
 summary: >+
-  O Office 365 (Empresa, Governo, Educação) segue a Política [moderna](/lifecycle/policies/modern) do ciclo de vida.
+  O Office 365 (Empresarial, Administração Pública, Educação) segue a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 09/22/2015
-content: "\n## <a name=\"links\"></a>Links \n* [System requirements](https://products.office.com/office-system-requirements)\n* [Informação de manutenção](https://technet.microsoft.com/library/mt584223.aspx)"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Requisitos de sistema](https://products.office.com/office-system-requirements)\n* [Informações de manutenção](https://technet.microsoft.com/library/mt584223.aspx)"

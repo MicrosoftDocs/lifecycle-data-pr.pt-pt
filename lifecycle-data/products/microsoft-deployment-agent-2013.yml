@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Deployment Agent 2013
-  description: O Microsoft Deployment Agent 2013 segue a Política de Ciclo de Vida Fixo.
+  title: Agente de implantação da Microsoft 2013
+  description: O Microsoft Deployment Agent 2013 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: d81680178f3fc6d72450bbf62cbf11ccb7ef8dc5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860425"
-name: Microsoft Deployment Agent 2013
+name: Agente de implantação da Microsoft 2013
 summary: >+
-  O Microsoft Deployment Agent 2013 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Microsoft Deployment Agent 2013 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n\n> [!NOTE]\n> Para o Agente de Implantação 2013, a Atualização 4 será suportada de acordo com as diretrizes políticas até 4/9/2024."
+content: "\n\n> [!NOTE]\n> Para o Microsoft Deployment Agent 2013, a Atualização 4 será suportada de acordo com as diretrizes da política até 09/04/2024."

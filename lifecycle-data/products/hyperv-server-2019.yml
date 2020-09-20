@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Hiper-V Servidor 2019
-  description: O Hiper-V Server 2019 segue a Política de Ciclo de Vida Fixo.
+  title: Hyper-V Server 2019
+  description: O Hyper-V Server 2019 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6ba8930e824f29ea98cb30ad9291ac18b0834221
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871391"
-name: Hiper-V Servidor 2019
+name: Hyper-V Server 2019
 summary: >+
-  O Hiper-V Server 2019 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Hyper-V Server 2019 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Links \n* [Comunidade de servidores do Windows](https://techcommunity.microsoft.com/t5/windows-server/ct-p/Windows-Server)\n\n> [!NOTE]\n> Windows Server 2019 e Windows Server, versão 1809 foram relançados no dia 13 de novembro de 2018. As datas de apoio foram ajustadas em conformidade."
+content: "\n## <a name=\"links\"></a>Ligações \n* [Comunidade do Windows Server](https://techcommunity.microsoft.com/t5/windows-server/ct-p/Windows-Server)\n\n> [!NOTE]\n> O Windows Server 2019 e o Windows Server, versão 1809 foram relançados a 13 de novembro de 2018. As datas de suporte foram ajustadas em conformidade."

@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Publisher 2003
-  description: O Microsoft Office Publisher 2003 segue a Política de Ciclo de Vida Fixo.
+  description: O Microsoft Office Publisher 2003 segue a Política de Ciclo de Vida Fixa.
   ms.date: 09/01/2020
   keywords: Standard,with Digital Imaging
   ms.openlocfilehash: 02171136d8f297220ab847aa34d70f61e3264555
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930355"
 name: Microsoft Office Publisher 2003
 summary: >+
-  O Microsoft Office Publisher 2003 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Microsoft Office Publisher 2003 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
-  Isto aplica-se às seguintes edições: Standard, com Digital Imaging
+  Isto aplica-se às seguintes edições: Standard, com Imagem Digital
 
 products:
 - office

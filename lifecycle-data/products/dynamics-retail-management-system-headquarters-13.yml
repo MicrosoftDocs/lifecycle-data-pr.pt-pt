@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Sistema de Gestão de Retalho Dinâmico 1.3
-  description: O Dynamics Retail Management System 1.3 segue a Política de Ciclo de Vida Fixo.
+  title: Dynamics Retail Management System 1.3
+  description: O Dynamics Retail Management System 1.3 segue a Política de Ciclo de Vida Fixa.
   ms.date: 09/01/2020
   keywords: Headquarters,Store Operations
   ms.openlocfilehash: a3713fd375b666673f687b89fe23492b072c8c3b
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "931715"
-name: Sistema de Gestão de Retalho Dinâmico 1.3
+name: Dynamics Retail Management System 1.3
 summary: >+
-  O Dynamics Retail Management System 1.3 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Dynamics Retail Management System 1.3 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
-  Isto aplica-se às seguintes edições: Sede, Operações de Loja
+  Isto aplica-se às seguintes edições: Headquarters, Store Operations
 
 products:
 - dynamics

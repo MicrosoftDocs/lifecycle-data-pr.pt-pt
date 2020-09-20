@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 800ea9f3a33e2ea7ba45314ebd7986ebcb047bd8
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860402"
 name: Microsoft Machine Learning Server (Microsoft R Server)
 summary: >+
-  O Microsoft Machine Learning Server (Microsoft R Server) segue a Política de Ciclo de Vida [Moderna.](/lifecycle/policies/modern)
+  O Microsoft Machine Learning Server (Microsoft R Server) segue a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 01/01/2016
-content: "\n## <a name=\"links\"></a>Links \n* [Informação de manutenção](/machine-learning-server/resources-servicing-support)"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Informações de manutenção](/machine-learning-server/resources-servicing-support)"
