@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Fundamentos do Windows para PCs legados
-  description: Os Fundamentos do Windows para PCs Legados seguem a Política de Ciclo de Vida Fixo.
+  title: Windows Fundamentals for Legacy PCs
+  description: O Windows Fundamentals para PCs Legados segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: b0ea32a5421ba068c5fa75f46633c104fdb3eff5
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "832752"
-name: Fundamentos do Windows para PCs legados
+name: Windows Fundamentals for Legacy PCs
 summary: >+
-  Os Fundamentos do Windows para PCs Legados seguem a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Windows Fundamentals para PCs Legados segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2006
   endDate: 10/12/2010
-content: "\n## <a name=\"links\"></a>Links \n* [Política de pacote de serviço](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Este produto segue a mesma política de ciclo de vida de suporte que o Windows XP."
+content: "\n## <a name=\"links\"></a>Ligações \n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Este produto segue a mesma política de Ciclo de Vida do Suporte do Windows XP."
