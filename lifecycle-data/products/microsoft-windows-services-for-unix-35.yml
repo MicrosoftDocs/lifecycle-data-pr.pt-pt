@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Windows Services for UNIX 3.5
-  description: Os serviços do Microsoft Windows para UNIX 3.5 seguem a Política de Ciclo de Vida dos Componentes.
+  title: Microsoft Windows Services para UNIX 3.5
+  description: O Microsoft Windows Services para UNIX 3.5 segue a Política de Ciclo de Vida do Componente.
   ms.date: 07/28/2020
   ms.openlocfilehash: 55f7940da408533190f0d2c0fdb2d323e983a9e4
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "832785"
-name: Microsoft Windows Services for UNIX 3.5
-summary: "Os serviços do Microsoft Windows para UNIX 3.5 seguem a Política de Ciclo de Vida [dos Componentes.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)\n\n\n> [!IMPORTANT]\n> O apoio terminou. \n"
+name: Microsoft Windows Services para UNIX 3.5
+summary: "O Microsoft Windows Services para UNIX 3.5 segue a Política de Ciclo de Vida do [Componente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).\n\n\n> [!IMPORTANT]\n> O suporte terminou. \n"
 products:
 - windows
 policyType: component

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft System Center Virtual Machine Manager 2008
-  description: O Microsoft System Center Virtual Machine Manager 2008 segue a Política de Ciclo de Vida Fixo.
+  description: O Microsoft System Center Virtual Machine Manager 2008 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 20f4d174c142e762fd98385e6b0296fa13c41081
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "833338"
 name: Microsoft System Center Virtual Machine Manager 2008
 summary: >
-  O Microsoft System Center Virtual Machine Manager 2008 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Microsoft System Center Virtual Machine Manager 2008 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 
