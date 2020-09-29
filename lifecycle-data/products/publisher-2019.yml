@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Editor 2019
-  description: A Editora 2019 segue a Política de Ciclo de Vida Fixo.
+  title: Publisher 2019
+  description: O Publisher 2019 segue a Política de Ciclo de Vida Fixa.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: d5b325ec4e796963976fe8fe923ba6c5ce81b1bf
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "926433"
-name: Editor 2019
+name: Publisher 2019
 summary: >+
-  A Editora 2019 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Publisher 2019 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
   Isto aplica-se às seguintes edições: Standard
