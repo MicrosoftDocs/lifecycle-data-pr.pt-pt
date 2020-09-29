@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Máquina virtual Azure
-  description: A Azure Virtual Machine segue a Política moderna do ciclo de vida.
+  title: Máquina Virtual do Azure
+  description: A Máquina Virtual do Azure segue a Política de Ciclo de Vida Moderna.
   ms.date: 07/28/2020
   ms.openlocfilehash: 84ee256cb8f83f04ce94702234a380442fb2e69a
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860521"
-name: Máquina virtual Azure
+name: Máquina Virtual do Azure
 summary: >+
-  A Azure Virtual Machine segue a Política [moderna](/lifecycle/policies/modern) do ciclo de vida.
+  A Máquina Virtual do Azure segue a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 06/07/2012
-content: "\n## <a name=\"links\"></a>Links \n* [Informação de manutenção](https://support.microsoft.com/help/2721672/microsoft-server-software-support-for-microsoft-azure-virtual-machines)"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Informações de manutenção](https://support.microsoft.com/help/2721672/microsoft-server-software-support-for-microsoft-azure-virtual-machines)"

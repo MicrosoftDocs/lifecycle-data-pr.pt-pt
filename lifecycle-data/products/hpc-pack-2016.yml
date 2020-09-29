@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Pacote HPC 2016
-  description: O HPC Pack 2016 segue a Política de Ciclo de Vida Fixo.
+  title: HPC Pack 2016
+  description: O HPC Pack 2016 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 45a14db596d5a620bd4dc9ef761aa811de45e59b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860454"
-name: Pacote HPC 2016
+name: HPC Pack 2016
 summary: >+
-  O HPC Pack 2016 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O HPC Pack 2016 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:

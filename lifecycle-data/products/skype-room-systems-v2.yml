@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Sistemas de Quarto Skype v2
-  description: Skype Room Systems v2 segue a Política Moderna do Ciclo de Vida.
+  title: Sistemas de Salas Skype v2
+  description: Os Sistemas de Salas Skype v2 seguem a Política de Ciclo de Vida Moderna.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1b100edccfa58c69264c6e9584cc7f08e1332419
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860673"
-name: Sistemas de Quarto Skype v2
+name: Sistemas de Salas Skype v2
 summary: >+
-  Skype Room Systems v2 segue a Política [Moderna](/lifecycle/policies/modern) do Ciclo de Vida.
+  Os Sistemas de Salas Skype v2 seguem a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/18/2016
-content: "\n## <a name=\"links\"></a>Links \n* [Informação de manutenção](https://support.office.com/article/support-for-skype-room-systems-v2-current-branch-versions-e915d5f4-7b70-47ca-94b7-d7153048ba38)"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Informações de manutenção](https://support.office.com/article/support-for-skype-room-systems-v2-current-branch-versions-e915d5f4-7b70-47ca-94b7-d7153048ba38)"

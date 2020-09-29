@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Versão do Office 2013 do Office 365 ProPlus
-  description: A versão do Office 2013 do Office 365 ProPlus segue a Política moderna do ciclo de vida.
+  title: Versão Office 2013 do Office 365 ProPlus
+  description: A versão Office 2013 do Office 365 ProPlus segue a Política de Ciclo de Vida Moderna.
   ms.date: 07/28/2020
   ms.openlocfilehash: 737fb217dc596643edfbcb06dd90640e1641c49b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860349"
-name: Versão do Office 2013 do Office 365 ProPlus
+name: Versão Office 2013 do Office 365 ProPlus
 summary: >+
-  A versão do Office 2013 do Office 365 ProPlus segue a Política [moderna](/lifecycle/policies/modern) do ciclo de vida.
+  A versão Office 2013 do Office 365 ProPlus segue a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
 
 
 products:

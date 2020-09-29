@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Tecido de Serviço Azure
-  description: O Azure Service Fabric segue a Política moderna do ciclo de vida.
+  title: Azure Service Fabric
+  description: O Azure Service Fabric segue a Política de Ciclo de Vida Moderna.
   ms.date: 07/28/2020
   ms.openlocfilehash: 075ce98becd0ba968cec21bf37699b76f89062c6
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860282"
-name: Tecido de Serviço Azure
+name: Azure Service Fabric
 summary: >+
-  O Azure Service Fabric segue a Política [moderna](/lifecycle/policies/modern) do ciclo de vida.
+  O Azure Service Fabric segue a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 09/26/2016
-content: "\n## <a name=\"links\"></a>Links \n* [Informação de manutenção](/azure/service-fabric/service-fabric-support)\n* [Versões suportadas](/azure/service-fabric/service-fabric-versions)"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Informações de manutenção](/azure/service-fabric/service-fabric-support)\n* [Versões suportadas](/azure/service-fabric/service-fabric-versions)"
