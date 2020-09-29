@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Word 2013
-  description: O Word 2013 segue a Política de Ciclo de Vida Fixo.
+  description: O Word 2013 segue a Política de Ciclo de Vida Fixa.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: b08705b30333f7f619339b95da3aafc1d047f7de
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938680"
 name: Word 2013
 summary: >+
-  O Word 2013 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Word 2013 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
   Isto aplica-se às seguintes edições: Standard
