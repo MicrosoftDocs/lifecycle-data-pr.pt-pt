@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dinâmica CRM 4.0
-  description: A Dynamics CRM 4.0 segue a Política de Ciclo de Vida Fixo.
+  title: Dynamics CRM 4.0
+  description: O Dynamics CRM 4.0 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 852d493a2b4693fdc4b3b7cc1e40b30afe880704
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "833541"
-name: Dinâmica CRM 4.0
+name: Dynamics CRM 4.0
 summary: >+
-  A Dynamics CRM 4.0 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Dynamics CRM 4.0 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 02/29/2008
   endDate: 04/10/2018
-content: "\n## <a name=\"links\"></a>Links \n* [Orientação para a migração](https://cloudblogs.microsoft.com/dynamics365/)"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](https://cloudblogs.microsoft.com/dynamics365/)"
