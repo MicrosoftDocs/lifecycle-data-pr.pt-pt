@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Vanguarda Segurança do Cliente
-  description: A Microsoft Forefront Client Security segue a Política de Ciclo de Vida Fixo.
+  title: Microsoft Forefront Client Security
+  description: O Microsoft Forefront Client Security segue a Política de Ciclo de Vida Fixa.
   ms.date: 08/28/2020
   ms.openlocfilehash: 335ae81ffa4b7cb64352b19e7330765a4cac6c68
   ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 08/28/2020
   ms.locfileid: "924267"
-name: Microsoft Vanguarda Segurança do Cliente
+name: Microsoft Forefront Client Security
 summary: >+
-  A Microsoft Forefront Client Security segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Microsoft Forefront Client Security segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 08/02/2007
   endDate: 07/14/2015
-content: "\n## <a name=\"links\"></a>Ligações \n* [Proteção de ponto de endpoint do centro do sistema](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> A Segurança do Cliente da Vanguarda foi descontinuada a partir de 14 de julho de 2015. As atualizações de definição de antimalware e antispyware deixarão de estar disponíveis após o fim do suporte para a versão do produto. Por favor, avalie a Proteção de Pontos Finais do Centro de Sistema como uma substituição."
+content: "\n## <a name=\"links\"></a>Ligações \n* [System Center Endpoint Protection](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> O Forefront Client Security foi descontinuado a 14 de julho de 2015. As atualizações de definição de Antimalware e Antispyware deixarão de estar disponíveis após o fim do suporte para a versão do produto. Pondere utilizar o System Center Endpoint Protection como um substituto."

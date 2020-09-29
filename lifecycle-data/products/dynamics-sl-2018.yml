@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dinâmica SL 2018
-  description: A Dynamics SL 2018 segue a Política de Ciclo de Vida Fixo.
+  title: Dynamics SL 2018
+  description: O Dynamics SL 2018 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: fc0bdf4ae2169693810562fae9e99475027e07d8
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871398"
-name: Dinâmica SL 2018
+name: Dynamics SL 2018
 summary: >+
-  A Dynamics SL 2018 segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Dynamics SL 2018 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:

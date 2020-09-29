@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Servidor de relatório de bi de energia
-  description: Power BI Report Server segue a Política moderna do ciclo de vida.
+  title: Power BI Report Server
+  description: O Power BI Report Server segue a Política de Ciclo de Vida Moderna.
   ms.date: 07/28/2020
   ms.openlocfilehash: 595ca1b035c661c5f2822dd0ab71578a5995290f
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871506"
-name: Servidor de relatório de bi de energia
+name: Power BI Report Server
 summary: >+
-  Power BI Report Server segue a Política [moderna](/lifecycle/policies/modern) do ciclo de vida.
+  O Power BI Report Server segue a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 06/12/2017
-content: "\n## <a name=\"links\"></a>Links \n* [Informação de manutenção](https://powerbi.microsoft.com/documentation/reportserver-support-timeline/)"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Informações de manutenção](https://powerbi.microsoft.com/documentation/reportserver-support-timeline/)"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Serviços Azure BizTalk
-  description: A Azure BizTalk Services segue a Política Moderna do Ciclo de Vida.
+  title: Azure BizTalk Services
+  description: O Azure BizTalk Services segue a Política de Ciclo de Vida Moderna.
   ms.date: 08/19/2020
   ms.openlocfilehash: 3fba232a5fce7a5cbc705ce79978718f84181737
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904395"
-name: Serviços Azure BizTalk
+name: Azure BizTalk Services
 summary: >+
-  A Azure BizTalk Services segue a Política [Moderna](/lifecycle/policies/modern) do Ciclo de Vida.
+  O Azure BizTalk Services segue a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 11/21/2013
   endDate: 05/31/2018
-content: "\n## <a name=\"links\"></a>Links \n* [Orientação para a migração](https://azure.microsoft.com/services/biztalk-services)"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](https://azure.microsoft.com/services/biztalk-services)"

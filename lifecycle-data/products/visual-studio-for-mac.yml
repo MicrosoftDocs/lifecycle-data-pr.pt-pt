@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Estúdio Visual para Mac
-  description: O Estúdio Visual para Mac segue a Política moderna do ciclo de vida.
+  title: Visual Studio para Mac
+  description: O Visual Studio para Mac segue a Política de Ciclo de Vida Moderna.
   ms.date: 07/28/2020
   ms.openlocfilehash: df41c429361462c1a4f73795de70cba9591f0197
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871457"
-name: Estúdio Visual para Mac
+name: Visual Studio para Mac
 summary: >+
-  O Estúdio Visual para Mac segue a Política [moderna](/lifecycle/policies/modern) do ciclo de vida.
+  O Visual Studio para Mac segue a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 05/10/2017
-content: "\n## <a name=\"links\"></a>Links \n* [Informação de manutenção](/visualstudio/productinfo/vs-servicing-mac)"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Informações de manutenção](/visualstudio/productinfo/vs-servicing-mac)"
