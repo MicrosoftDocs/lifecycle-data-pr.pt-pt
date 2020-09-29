@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Timoneiro da Microsoft 4.0
-  description: O Timoneiro 4.0 da Microsoft segue a Política de Ciclo de Vida Fixo.
+  title: Microsoft Helmsman 4.0
+  description: O Microsoft Helmsman 4.0 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: e873dcff7f9c115e7c0aa006d0a89b275f51c1a2
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "833773"
-name: Timoneiro da Microsoft 4.0
+name: Microsoft Helmsman 4.0
 summary: >+
-  O Timoneiro 4.0 da Microsoft segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O Microsoft Helmsman 4.0 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:
