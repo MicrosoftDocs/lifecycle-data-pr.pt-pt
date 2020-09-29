@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Código do Estúdio Visual
-  description: O Código do Estúdio Visual segue a Política moderna do ciclo de vida.
+  title: Visual Studio Code
+  description: O Visual Studio Code segue a Política de Ciclo de Vida Moderna.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3d0488c1baf7058618ba22280b0795ecf6e5a6b4
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860671"
-name: Código do Estúdio Visual
+name: Visual Studio Code
 summary: >+
-  O Código do Estúdio Visual segue a Política [moderna](/lifecycle/policies/modern) do ciclo de vida.
+  O Visual Studio Code segue a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 04/14/2016
-content: "\n## <a name=\"links\"></a>Links \n* [Informação de manutenção](/visualstudio/productinfo/vs-servicing-mac)"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Informações de manutenção](/visualstudio/productinfo/vs-servicing-mac)"

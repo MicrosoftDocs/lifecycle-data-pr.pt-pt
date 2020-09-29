@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Sala de Reuniões Lync
-  description: A Sala de Reuniões Lync segue a Política de Ciclo de Vida Fixo.
+  title: Lync Meeting Room
+  description: O Lync Meeting Room segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 92fdfd4bb47c96e2fccf4ffa0bcf96a332a92a64
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860440"
-name: Sala de Reuniões Lync
-summary: "A Sala de Reuniões Lync segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)\n\n\n> [!IMPORTANT]\n> O suporte para este produto terminou. Consulte a orientação da migração. \n"
+name: Lync Meeting Room
+summary: "O Lync Meeting Room segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).\n\n\n> [!IMPORTANT]\n> O suporte para este produto terminou. Ver orientações sobre migração. \n"
 products:
 - office
 policyType: fixed-mainstream-only
@@ -21,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 09/01/2013
   endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>Links \n* [Orientação para a migração](/skypeforbusiness/deploy/deploy-clients/lrs-migration)"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](/skypeforbusiness/deploy/deploy-clients/lrs-migration)"

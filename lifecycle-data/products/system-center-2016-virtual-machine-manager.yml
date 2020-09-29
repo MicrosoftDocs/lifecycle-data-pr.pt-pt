@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Gestor de máquinas virtual do System Center 2016
-  description: System Center 2016 Virtual Machine Manager segue a Política de Ciclo de Vida Fixo.
+  title: System Center 2016 Virtual Machine Manager
+  description: O System Center 2016 Virtual Machine Manager segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 43bd64cf4f3bcde6c41718f57bddd96ccd63a8a6
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-PT
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "860590"
-name: Gestor de máquinas virtual do System Center 2016
+name: System Center 2016 Virtual Machine Manager
 summary: >+
-  System Center 2016 Virtual Machine Manager segue a Política de Ciclo de Vida [Fixo.](/lifecycle/policies/fixed)
+  O System Center 2016 Virtual Machine Manager segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:
