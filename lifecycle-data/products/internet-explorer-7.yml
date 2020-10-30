@@ -2,13 +2,14 @@
 metadata:
   title: Internet Explorer 7
   description: O Internet Explorer 7 segue a Política de Ciclo de Vida do Componente.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: a3ebb8bde83f8b86fe292510b958fb0c59994fe3
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 10/05/2020
+  keywords: 
+  ms.openlocfilehash: e9a0e815b920011e15e4da8e58158c45e7971cd0
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
   ms.translationtype: HT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "833494"
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162678"
 name: Internet Explorer 7
 summary: >+
   O Internet Explorer 7 segue a Política de Ciclo de Vida do [Componente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
@@ -19,7 +20,8 @@ products:
 policyType: component
 supportDates:
   start: 10/18/2006
+  end: 10/10/2023
 releases:
 - version: Original Release
   startDate: 10/18/2006
-content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](https://www.microsoft.com/itpro/microsoft-edge)\n* [Perguntas Frequentes sobre Política de Ciclo de Vida do Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> A partir de 12 de janeiro de 2016, apenas a versão mais recente do Internet Explorer disponível para um sistema operativo suportado irá receber suporte técnico e atualizações de segurança."
+content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](https://www.microsoft.com/itpro/microsoft-edge)\n* [Windows Embedded Compact 7](/lifecycle/products/windows-embedded-compact-7)\n* [Windows Embedded Compact 2013](/lifecycle/products/windows-embedded-compact-2013)\n* [Perguntas Frequentes sobre Política de Ciclo de Vida do Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> O Internet Explorer 7 é um componente do Windows Embedded Compact 7 e Windows Embedded Compact 2013 e segue o mesmo ciclo de vida. \n> [!NOTE]\n> A partir de 12 de janeiro de 2016, apenas a versão mais recente do Internet Explorer disponível para um sistema operativo suportado irá receber suporte técnico e atualizações de segurança."
