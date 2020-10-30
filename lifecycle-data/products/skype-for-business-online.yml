@@ -2,13 +2,14 @@
 metadata:
   title: Skype para Empresas Online
   description: O Skype para Empresas Online segue a Política de Ciclo de Vida Moderna.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 68200f8b9758ff25b2515f027f39c91bddde4c7e
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/16/2020
+  keywords: ''
+  ms.openlocfilehash: bf59d0a69fe09d791e95560ef3c69de86814a9fd
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
   ms.translationtype: HT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "860675"
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162197"
 name: Skype para Empresas Online
 summary: >
   O Skype para Empresas Online segue a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
@@ -17,7 +18,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Este serviço terminará a 31 de julho de 2021. Ver abaixo as orientações sobre migração.
+  > Este serviço terminará a 31 de julho de 2021. Ver abaixo as orientações sobre migração. Aceda [aqui](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/changes-ahead-for-cloud-connector-edition-and-hybrid-voice/ba-p/1650055) para conhecer o impacto nas implementações do Hybrid Voice.
 products:
 - office
 policyType: modern-online
