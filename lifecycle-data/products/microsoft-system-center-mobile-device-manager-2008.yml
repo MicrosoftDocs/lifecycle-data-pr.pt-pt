@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/14/2008
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edições \n* Todos aplicáveis\n* wSQL"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edições \n* Todas aplicáveis\n* wSQL"

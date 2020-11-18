@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure Dev Ops](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>Edições \n* Todos aplicáveis\n* External Connector"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure Dev Ops](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>Edições \n* Todas aplicáveis\n* External Connector"

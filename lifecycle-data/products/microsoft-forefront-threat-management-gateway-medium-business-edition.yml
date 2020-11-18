@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "1001919"
 name: Microsoft Forefront Threat Management Gateway, Medium Business Edition
 summary: >+
-  O Microsoft Forefront Threat Management Gateway, Edição Medium Business segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
+  O Microsoft Forefront Threat Management Gateway, Medium Business Edition segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
   Isto aplica-se às seguintes edições: Business
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/12/2008
   endDate: 11/12/2018
-content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Edições \n* Empresas"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Edições \n* Business"

@@ -15,7 +15,7 @@ summary: >+
   O Visual Studio 2015 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
-  Isto aplica-se às seguintes edições: Agents, Community, Enterprise, ESM, Express para Web, Express para Windows 10, Express para Ambiente de Trabalho do Windows, Modeling SDK, Professional, PSM, Gestor de Lançamento, Ferramentas Remotas, SDK, Shell (Integrado), Shell (Isolado), Test Professional, TPS, Visual C++ Redistributable
+  Isto aplica-se às seguintes edições: Agents, Community, Enterprise, ESM, Express para Web, Express para Windows 10, Express para Ambiente de Trabalho do Windows, Modeling SDK, Professional, PSM, Release Management, Ferramentas Remotas, SDK, Shell (Integrado), Shell (Isolado), Test Professional, TPS, Visual C++ Redistributable
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Ligações \n* [Informações de manutenção](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Edições \n* Agents\n* Community\n* Enterprise\n* ESM\n* Express para Web\n* Express para Windows 10\n* Express para Windows Desktop\n* Modeling SDK\n* Professional\n* PSM\n* Gestor de Lançamento\n* Ferramentas Remotas\n* SDK\n* Shell (Integrada)\n* Shell (Isolada)\n* Test Professional\n* TPS\n* Visual C++ Redistributable"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Informações de manutenção](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Edições \n* Agents\n* Community\n* Enterprise\n* ESM\n* Express para Web\n* Express para Windows 10\n* Express para Windows Desktop\n* Modeling SDK\n* Professional\n* PSM\n* Release Management\n* Ferramentas Remotas\n* SDK\n* Shell (Integrada)\n* Shell (Isolada)\n* Test Professional\n* TPS\n* Visual C++ Redistributable"
