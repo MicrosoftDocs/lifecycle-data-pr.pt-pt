@@ -15,7 +15,7 @@ summary: >+
   O Windows Storage Server 2008 Embedded segue a Política do Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
-  Isto aplica-se às seguintes edições: 32 Bit, 64 Bit, Básico, Básico 32-Bit, Enterprise, Standard, Workgroup
+  Isto aplica-se às seguintes edições: 32 Bit, 64 Bit, Basic, Basic 32-Bit, Enterprise, Standard, Workgroup
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/19/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Este produto atingiu o fim do suporte. Ver abaixo as orientações sobre migração.\n\n## <a name=\"editions\"></a>Edições \n* 32 Bit\n* 64 Bit\n* Basic\n* Básico 32-Bit\n* Enterprise\n* Standard\n* Grupo de Trabalho"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Este produto atingiu o fim do suporte. Ver abaixo as orientações sobre migração.\n\n## <a name=\"editions\"></a>Edições \n* 32 Bit\n* 64 Bit\n* Basic\n* Basic 32-Bit\n* Enterprise\n* Standard\n* Workgroup"

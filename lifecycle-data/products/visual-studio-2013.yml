@@ -15,7 +15,7 @@ summary: >+
   O Visual Studio 2013 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
-  Isto aplica-se às seguintes edições: Agents, Todos, Community, Express para Web, Express para Windows, Express para Ambientes de trabalho WIndows, IntelliTrace Collector, Modeling SDK, Biblioteca Multibyte MFC, Premium, Professional, Release Management, Ferramentas Remotas, SDK, Shell (Integrado), Shell (Isolado), Team Explorer, Test Professional, Ultimate, Visual C++ Redistributable, Extensões de Ferramentas Web
+  Isto aplica-se às seguintes edições: Agents, Todos, Community, Express para Web, Express para Windows, Express para Windows Desktops, IntelliTrace Collector, Modeling SDK, Biblioteca Multibyte MFC, Premium, Professional, Release Management, Ferramentas Remotas, SDK, Shell (Integrado), Shell (Isolado), Team Explorer, Test Professional, Ultimate, Visual C++ Redistributable, Extensões de Ferramentas Web
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n## <a name=\"links\"></a>Ligações \n* [Informações de manutenção](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Edições \n* Agents\n* Todos\n* Community\n* Express para Web\n* Express para Windows\n* Express para Windows Desktop\n* IntelliTrace Collector\n* Modeling SDK\n* Biblioteca Multibyte MFC\n* Premium\n* Professional\n* Gestor de Lançamento\n* Ferramentas Remotas\n* SDK\n* Shell (Integrada)\n* Shell (Isolada)\n* Team Explorer\n* Test Professional\n* Ultimate\n* Visual C++ Redistributable\n* Extensões de Ferramentas Web"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Informações de manutenção](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Edições \n* Agents\n* Todos\n* Community\n* Express para Web\n* Express para Windows\n* Express para Windows Desktop\n* IntelliTrace Collector\n* Modeling SDK\n* Biblioteca Multibyte MFC\n* Premium\n* Professional\n* Release Management\n* Ferramentas Remotas\n* SDK\n* Shell (Integrada)\n* Shell (Isolada)\n* Team Explorer\n* Test Professional\n* Ultimate\n* Visual C++ Redistributable\n* Extensões de Ferramentas Web"

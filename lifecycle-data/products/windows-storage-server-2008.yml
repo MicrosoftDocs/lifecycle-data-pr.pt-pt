@@ -15,7 +15,7 @@ summary: >
   O Windows Storage Server 2008 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
-  Isto aplica-se às seguintes edições: Basic, Basic 32-Bit, Basic 64-bit, Basic Embedded, Basic Embedded 32-bit, Enterprise, Enterprise Embedded, Standard, Standard Embedded, Grupo de Trabalho
+  Isto aplica-se às seguintes edições: Basic, Basic 32-Bit, Basic 64-bit, Basic Embedded, Basic Embedded 32-bit, Enterprise, Enterprise Embedded, Standard, Standard Embedded, Workgroup
 
 
   > [!IMPORTANT]
@@ -35,4 +35,4 @@ releases:
 - version: Service Pack 2
   startDate: 07/19/2009
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Informação sobre a Atualização do Servidor](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Edições \n* Basic\n* Básico 32 Bit\n* Básico 64 bit\n* Basic Embedded\n* Basic Embedded 32 bit\n* Enterprise\n* Enterprise Embedded\n* Standard\n* Standard Embedded\n* Grupo de Trabalho"
+content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Informação sobre a Atualização do Servidor](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Edições \n* Basic\n* Basic 32-Bit\n* Basic 64 bit\n* Basic Embedded\n* Basic Embedded 32 bit\n* Enterprise\n* Enterprise Embedded\n* Standard\n* Standard Embedded\n* Workgroup"
