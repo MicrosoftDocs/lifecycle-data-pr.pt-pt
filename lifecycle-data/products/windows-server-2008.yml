@@ -2,14 +2,14 @@
 metadata:
   title: Windows Server 2008
   description: O Windows Server 2008 segue a Política de Ciclo de Vida Fixa.
-  ms.date: 09/01/2020
-  keywords: Datacenter,Datacenter without Hyper-V,Enterprise,Enterprise without Hyper-V,for Itanium-Based Systems,Foundation,Standard,Standard without Hyper-V,Web
-  ms.openlocfilehash: 30b07c95bb7d37ab822e5e2238983fd70d918889
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 04/23/2021
+  keywords: 
+  ms.openlocfilehash: 9f958fbc26dddbf3e388c598e868b94eb1713541
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939531"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029850"
 name: Windows Server 2008
 summary: >
   O Windows Server 2008 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
@@ -29,10 +29,19 @@ supportDates:
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
+- version: Extended Security Update Year 3
+  startDate: 01/11/2022
+  endDate: 01/10/2023
+- version: Extended Security Update Year 2
+  startDate: 01/12/2021
+  endDate: 01/11/2022
+- version: Extended Security Update Year 1
+  startDate: 01/14/2020
+  endDate: 01/12/2021
 - version: Service Pack 2
   startDate: 04/29/2009
   endDate: 01/14/2020
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](https://aka.ms/AA1ovn4)\n* [Informação sobre a Atualização do Servidor](/windows-server/upgrade/upgrade-overview)\n* [Programa de Atualização de Segurança Alargada (ESU)](/lifecycle/faq/extended-security-updates)\n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Estão disponíveis Atualizações de Segurança Alargadas (ESU), através de programas de licenciamento em volume, para as edições Datacenter, Standard, Enterprise e Embedded deste produto, durante um período adicional de até três anos após o fim do suporte. Entre em contacto com o seu parceiro ou equipa de conta da Microsoft para saber mais. \n\nLançamento-------------------------------Data de Início----Data de Término\n\nAtualização de Segurança Alargada Ano 3---11/01/2022---10/01/2023\n\nAtualização de Segurança Alargada Ano 2---12/01/2021---11/01/2022\n\nAtualização de Segurança Alargada Ano 1---14/01/2020---12/01/2021\n> [!NOTE]\n> Windows Server 2008 Foundation lançado em 21 de maio de 2009\n\n## <a name=\"editions\"></a>Edições \n* Datacenter\n* Datacenter sem Hyper-V\n* Enterprise\n* Empresarial sem Hyper-V\n* para Sistemas Baseados em Itanium\n* Foundation\n* Standard\n* Standard sem Hyper-V\n* Web"
+content: "> [!TIP]\n> *Estão disponíveis Atualizações de Segurança Alargadas (ESU), através de programas de licenciamento em volume, para as edições Datacenter, Standard, Enterprise e Embedded deste produto, durante um período adicional de até três anos após o fim do suporte. Entre em contacto com o seu parceiro ou equipa de conta da Microsoft para saber mais. \n\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](https://aka.ms/AA1ovn4)\n* [Informação sobre a Atualização do Servidor](/windows-server/upgrade/upgrade-overview)\n* [Programa de Atualização de Segurança Alargada (ESU)](/lifecycle/faq/extended-security-updates)\n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Windows Server 2008 Foundation lançado em 21 de maio de 2009\n\n## <a name=\"editions\"></a>Edições \n* Datacenter\n* Datacenter sem Hyper-V\n* Enterprise\n* Empresarial sem Hyper-V\n* para Sistemas Baseados em Itanium\n* Foundation\n* Standard\n* Standard sem Hyper-V\n* Web"
