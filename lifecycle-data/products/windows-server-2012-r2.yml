@@ -2,20 +2,23 @@
 metadata:
   title: Windows Server 2012 R2
   description: O Windows Server 2012 R2 segue a Política de Ciclo de Vida Fixa.
-  ms.date: 09/01/2020
-  keywords: Datacenter,Essentials,for Embedded Systems,Foundation,Standard
-  ms.openlocfilehash: 42ac3c78b1d65c205a93a1041fdc4f029edec3f5
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 07/12/2021
+  keywords: 
+  ms.openlocfilehash: b0da526f5c5f094b144ddf2549664a9b5a39babd
+  ms.sourcegitcommit: 1629a54febaf89d1050ce02280d58f9ec8736d8c
   ms.translationtype: HT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939494"
+  ms.lasthandoff: 07/23/2021
+  ms.locfileid: "2172089"
 name: Windows Server 2012 R2
 summary: >+
   O Windows Server 2012 R2 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
+
   Isto aplica-se às seguintes edições: Datacenter, Essentials, para Embedded Systems, Foundation, Standard
+
+
 
 products:
 - windows
@@ -25,7 +28,16 @@ supportDates:
   end: 10/09/2018
   extendedEnd: 10/10/2023
 releases:
+- version: Extended Security Update Year 3
+  startDate: 10/14/2025
+  endDate: 10/13/2026
+- version: Extended Security Update Year 2
+  startDate: 10/08/2024
+  endDate: 10/14/2025
+- version: Extended Security Update Year 1
+  startDate: 10/10/2023
+  endDate: 10/08/2024
 - version: Original Release
   startDate: 11/25/2013
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> O suporte Base e Alargado para este produto foi alargado para fornecer aos clientes o cronograma de transição do ciclo de vida padrão.\n\n## <a name=\"editions\"></a>Edições \n* Datacenter\n* Essentials\n* para Embedded Systems\n* Foundation\n* Standard"
+content: "\n\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](/windows-server/upgrade/upgrade-overview)\n* [FAQ do Ciclo de Vida - Atualizações de Segurança Estendidas](/lifecycle/faq/extended-security-updates)\n\n\n> [!NOTE]\n> O suporte Base e Alargado para este produto foi alargado para fornecer aos clientes o cronograma de transição do ciclo de vida padrão.\n\n\n## <a name=\"editions\"></a>Edições \n* Datacenter\n* Essentials\n* para Embedded Systems\n* Foundation\n* Standard"

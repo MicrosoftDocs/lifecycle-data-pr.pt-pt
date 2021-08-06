@@ -2,23 +2,26 @@
 metadata:
   title: Microsoft Edge
   description: O Microsoft Edge segue a Política de Ciclo de Vida Moderna.
-  ms.date: 10/20/2020
+  ms.date: 07/17/2021
   keywords: 
-  ms.openlocfilehash: b6634ea1575408641dd760ce54e0733af04c5941
-  ms.sourcegitcommit: a0744017304a3d2e709f964e643feb7903d05c2d
+  ms.openlocfilehash: 81aabf800a7f4fa41266ade0acae6723211cdc4f
+  ms.sourcegitcommit: 1629a54febaf89d1050ce02280d58f9ec8736d8c
   ms.translationtype: HT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 10/21/2020
-  ms.locfileid: "1163015"
+  ms.lasthandoff: 07/23/2021
+  ms.locfileid: "2172052"
 name: Microsoft Edge
-summary: >
+summary: >+
   O Microsoft Edge segue a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
+
+
 
 
 
   > [!IMPORTANT]
 
   > Note que o suporte da versão legada deste produto termina a 9 de março de 2021. Aceda [aqui](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) para obter mais informações.
+
 products:
 - microsoft-edge
 policyType: modern-on-prem
@@ -27,4 +30,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 01/15/2020
-content: "\n## <a name=\"links\"></a>Ligações \n* [Sistemas operativos suportados pelo Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)\n* [Perguntas Frequentes sobre o Ciclo de Vida - Internet Explorer e Edge](/lifecycle/faq/internet-explorer-microsoft-edge)"
+content: "\n\n## <a name=\"links\"></a>Ligações \n* [Sistemas operativos suportados pelo Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)\n* [Perguntas Frequentes sobre o Ciclo de Vida - Internet Explorer e Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Política de Ciclo de Vida do Microsoft Edge](/deployedge/microsoft-edge-support-lifecycle)"
