@@ -3,12 +3,12 @@ metadata:
   title: System Center 2016 Service Manager
   description: O System Center 2016 Service Manager segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 324b4d018b20d596afdf61ff10658489d7f1d79f
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 2e9012b28d23dab2b04845cf780aaf847f8565b9c1224b32fc19f7d872b71e8b
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "860766"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2506738"
 name: System Center 2016 Service Manager
 summary: >+
   O System Center 2016 Service Manager segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
