@@ -3,12 +3,12 @@ metadata:
   title: Conectores de Produtos Engyro para Microsoft Operations Manager 2005
   description: Os Conectores de Produtos Engyro para o Microsoft Operations Manager 2005 seguem a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
-  ms.openlocfilehash: b421124e88b9e5ee8e28e9added4a7876c9405dd
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: 63c392008b83dfc04e38ee126c7b5474d448937d0ec8d22e2e8c0ec34e926479
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "833527"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2490125"
 name: Conectores de Produtos Engyro para Microsoft Operations Manager 2005
 summary: >+
   Os Conectores de Produtos Engyro para o Microsoft Operations Manager 2005 seguem a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).

@@ -3,12 +3,12 @@ metadata:
   title: Microsoft Visual J# Versão 2.0 Redistributable Package
   description: O Microsoft Visual J# Versão 2.0 Redistributable Package segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
-  ms.openlocfilehash: fa32b69860aec252b7d1068ad2e130700f9d0b92
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: 7f2f73ca58d09d344d32e76e72270ec0bd8acf267ddcc4bba24ce01dc090113d
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "832940"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2498080"
 name: Microsoft Visual J# Versão 2.0 Redistributable Package
 summary: >+
   O Microsoft Visual J# Versão 2.0 Redistributable Package segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
