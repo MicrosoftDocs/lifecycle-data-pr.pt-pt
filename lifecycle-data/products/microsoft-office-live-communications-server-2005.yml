@@ -4,12 +4,12 @@ metadata:
   description: O Microsoft Office Live Communications Server 2005 segue a Política de Ciclo de Vida Fixa.
   ms.date: 09/10/2020
   keywords: Enterprise,Standard
-  ms.openlocfilehash: 56bdae2a655c365c4b477c677dc6642350d837e8
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
+  ms.openlocfilehash: 05022768ea63810648e9fecb34743bc5c9e8fba6df78309bc862bd27427a0fd8
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001549"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2494417"
 name: Microsoft Office Live Communications Server 2005
 summary: "O Microsoft Office Live Communications Server 2005 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).\n\nIsto aplica-se às seguintes edições: Enterprise, Standard\n\n> [!IMPORTANT]\n> O suporte para este produto terminou. \n"
 products:

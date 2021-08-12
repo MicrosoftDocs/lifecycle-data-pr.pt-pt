@@ -3,12 +3,12 @@ metadata:
   title: Dynamics CRM 2015
   description: O Dynamics CRM 2015 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 8ed74b140e6c7efc0913db1aced0cac171298a8b
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: b7aed18fd79c6bf485caaae19961d37a9b3dfecaecf2f0828c8002886ba1de94
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "860738"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2502927"
 name: Dynamics CRM 2015
 summary: >+
   O Dynamics CRM 2015 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
