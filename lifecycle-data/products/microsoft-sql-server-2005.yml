@@ -3,45 +3,57 @@ metadata:
   title: Microsoft SQL Server 2005
   description: O Microsoft SQL Server 2005 segue a Política de Ciclo de Vida Fixa.
   ms.date: 09/01/2020
-  keywords: Compact,Developer,Embedded,Enterprise,Enterprise for Itanium-based Systems,Enterprise X64,Express,Express with Advanced Services,Standard,Standard for Itanium-based Systems,Standard X64,Workgroup
-  ms.openlocfilehash: ca451e6716bf5aed78c86dd83737d59a46a8203d
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: pt-PT
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "929763"
+  keywords: 'Compact,Developer,Embedded,Enterprise,Enterprise for Itanium-based Systems,Enterprise X64,Express,Express with Advanced Services,Standard,Standard for Itanium-based Systems,Standard X64,Workgroup'
 name: Microsoft SQL Server 2005
-summary: >
+summary: |
   O Microsoft SQL Server 2005 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
-
 
   Isto aplica-se às seguintes edições: Compact, Developer, Embedded, Enterprise, Enterprise para Sistemas baseados em Itanium, Enterprise X64, Express, Express com Serviços Avançados, Standard, Standard para Sistemas baseados em Itanium, Standard X64, Grupo de Trabalho
 
-
   > [!IMPORTANT]
-
   > O suporte para este produto terminou. Ver abaixo as orientações sobre migração.
 products:
-- sql-server
+  - sql-server
 policyType: fixed
 supportDates:
   start: 01/14/2006
   end: 04/12/2011
   extendedEnd: 04/12/2016
 releases:
-- version: Service Pack 4
-  startDate: 12/13/2010
-  endDate: 04/12/2016
-- version: Service Pack 3
-  startDate: 12/15/2008
-  endDate: 01/10/2012
-- version: Service Pack 2
-  startDate: 02/19/2007
-  endDate: 01/12/2010
-- version: Service Pack 1
-  startDate: 04/18/2006
-  endDate: 04/08/2008
-- version: Original Release
-  startDate: 01/14/2006
-  endDate: 07/10/2007
-content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft SQL Server 2005 Edição Compact lançada a 19 de fevereiro de 2007.\n\n## <a name=\"editions\"></a>Edições \n* Compact\n* Developer\n* Embedded\n* Enterprise\n* Enterprise  para Sistemas baseados em Itanium\n* Empresarial X64\n* Express\n* Express com Serviços Avançados\n* Standard\n* Standard para Sistemas baseados em Itanium\n* Standard X64\n* Grupo de Trabalho"
+  - version: Service Pack 4
+    startDate: 12/13/2010
+    endDate: 04/12/2016
+  - version: Service Pack 3
+    startDate: 12/15/2008
+    endDate: 01/10/2012
+  - version: Service Pack 2
+    startDate: 02/19/2007
+    endDate: 01/12/2010
+  - version: Service Pack 1
+    startDate: 04/18/2006
+    endDate: 04/08/2008
+  - version: Original Release
+    startDate: 01/14/2006
+    endDate: 07/10/2007
+content: |
+
+  ## <a name="links"></a>Ligações 
+  * [Orientações sobre migração](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)
+  * [Política do service pack](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > Microsoft SQL Server 2005 Edição Compact lançada a 19 de fevereiro de 2007.
+
+  ## <a name="editions"></a>Edições 
+  * Compact
+  * Developer
+  * Embedded
+  * Enterprise
+  * Enterprise  para Sistemas baseados em Itanium
+  * Empresarial X64
+  * Express
+  * Express com Serviços Avançados
+  * Standard
+  * Standard para Sistemas baseados em Itanium
+  * Standard X64
+  * Grupo de Trabalho

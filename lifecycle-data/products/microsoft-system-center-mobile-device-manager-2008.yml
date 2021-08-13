@@ -3,32 +3,34 @@ metadata:
   title: Microsoft System Center Mobile Device Manager 2008
   description: O Microsoft System Center Mobile Device Manager 2008 segue a Política de Ciclo de Vida Fixa.
   ms.date: 09/10/2020
-  keywords: All applicable,wSQL
-  ms.openlocfilehash: 88d4e4ed5265017faf066b03c192121e6319034c
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: pt-PT
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001438"
+  keywords: 'All applicable,wSQL'
 name: Microsoft System Center Mobile Device Manager 2008
-summary: >+
+summary: |+
   O Microsoft System Center Mobile Device Manager 2008 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
-
 
   Isto aplica-se às seguintes edições: Todas aplicáveis, wSQL
 
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 05/14/2008
   end: 07/09/2013
   extendedEnd: 07/10/2018
 releases:
-- version: Service Pack 1
-  startDate: 12/15/2008
-  endDate: 07/10/2018
-- version: Original Release
-  startDate: 05/14/2008
-  endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edições \n* Todas aplicáveis\n* wSQL"
+  - version: Service Pack 1
+    startDate: 12/15/2008
+    endDate: 07/10/2018
+  - version: Original Release
+    startDate: 05/14/2008
+    endDate: 01/12/2010
+content: |
+
+  ## <a name="links"></a>Ligações 
+  * [Orientações sobre migração](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)
+  * [Política do service pack](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Edições 
+  * Todos aplicáveis
+  * wSQL
