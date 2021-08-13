@@ -3,26 +3,29 @@ metadata:
   title: Dynamics 365 for Finance and Operations
   description: O Dynamics 365 for Finance and Operations segue a Política de Ciclo de Vida Moderna.
   ms.date: 09/29/2020
-  keywords: 
-  ms.openlocfilehash: 22bc725cf7f990b27f83a506f26a4108f3b9fea9
-  ms.sourcegitcommit: 7ed59f943dacfc14fbd5d5593741177aa2b6431b
-  ms.translationtype: HT
-  ms.contentlocale: pt-PT
-  ms.lasthandoff: 09/29/2020
-  ms.locfileid: "1048281"
+  keywords: null
 name: Dynamics 365 for Finance and Operations
-summary: >+
+summary: |+
   O Dynamics 365 for Finance and Operations segue a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
-
 
   Isto aplica-se às seguintes edições: Enterprise
 
 products:
-- dynamics
+  - dynamics
 policyType: modern-online
 supportDates:
   start: 02/19/2016
 releases:
-- version: Original Release
-  startDate: 02/19/2016
-content: "\n## <a name=\"links\"></a>Ligações \n* [Mapa de Objetivos do Microsoft Dynamics 365](https://roadmap.dynamics.com/)\n* [Funcionalidades removidas ou preteridas](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/deprecated-features?toc=/dynamics365/finance/toc.json%22%20%5Cl%20%22us-payroll-tax-updates)\n* [Informações de manutenção](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)\n* [Requisitos de sistema](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)\n\n\n## <a name=\"editions\"></a>Edições \n* Enterprise"
+  - version: Original Release
+    startDate: 02/19/2016
+content: |
+
+  ## <a name="links"></a>Ligações 
+  * [Mapa de Objetivos do Microsoft Dynamics 365](https://roadmap.dynamics.com/)
+  * [Funcionalidades removidas ou preteridas](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/deprecated-features?toc=/dynamics365/finance/toc.json%22%20%5Cl%20%22us-payroll-tax-updates)
+  * [Informações de manutenção](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)
+  * [Requisitos de sistema](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)
+
+
+  ## <a name="editions"></a>Edições 
+  * Enterprise

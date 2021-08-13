@@ -3,25 +3,22 @@ metadata:
   title: Componentes Web do Microsoft Office 2003 para o sistema Microsoft Office de 2007
   description: Os Componentes Web do Microsoft Office 2003 para o sistema Microsoft Office de 2007 seguem a Política de Ciclo de Vida dos Componentes.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 82cc956a80008bea8b985ccf8b1b6c3c4927b4c7
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: pt-PT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "832823"
 name: Componentes Web do Microsoft Office 2003 para o sistema Microsoft Office de 2007
-summary: >+
+summary: |+
   Os Componentes Web do Microsoft Office 2003 para o sistema Microsoft Office de 2007 seguem a Política de Ciclo de Vida dos [Componentes](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
-- office
+  - office
 policyType: component
 supportDates:
   start: 01/27/2007
   end: 10/10/2017
 releases:
-- version: Original Release
-  startDate: 01/27/2007
-  endDate: 10/10/2017
-content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](/office/troubleshoot/support/office-2007-not-support)"
+  - version: Original Release
+    startDate: 01/27/2007
+    endDate: 10/10/2017
+content: |+
+
+  ## <a name="links"></a>Ligações 
+  * [Orientações sobre migração](/office/troubleshoot/support/office-2007-not-support)

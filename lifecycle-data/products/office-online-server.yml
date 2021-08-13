@@ -3,23 +3,17 @@ metadata:
   title: Servidor Online do Office
   description: O Office Online Server segue a Política de Ciclo de Vida Moderna.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 953cd5a923a96f676bc0204fc7c9419e95889496
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: pt-PT
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "860380"
 name: Servidor Online do Office
-summary: >+
+summary: |+
   O Office Online Server segue a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
 
 
 products:
-- office
+  - office
 policyType: modern-online
 supportDates:
   start: 05/04/2016
 releases:
-- version: Original Release
-  startDate: 05/04/2016
-content: ''
+  - version: Original Release
+    startDate: 05/04/2016
+content: |+

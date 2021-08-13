@@ -3,28 +3,29 @@ metadata:
   title: Microsoft Office 2019 para Mac
   description: O Microsoft Office 2019 para Mac segue a Política de Ciclo de Vida Fixa.
   ms.date: 09/01/2020
-  keywords: Academic,Home and Business,Home and Student,Standard
-  ms.openlocfilehash: ec9caa375adfc5b23212e92160c6f3107344e1c6
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: pt-PT
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "930429"
+  keywords: 'Academic,Home and Business,Home and Student,Standard'
 name: Microsoft Office 2019 para Mac
-summary: >+
+summary: |+
   O Microsoft Office 2019 para Mac segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
-
 
   Isto aplica-se às seguintes edições: Academic, Casa e Negócios, Casa e Estudantes, Standard
 
 products:
-- office
+  - office
 policyType: fixed-mainstream-only
 supportDates:
   start: 09/24/2018
   end: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 09/24/2018
-  endDate: 10/10/2023
-content: "\n\n\n## <a name=\"editions\"></a>Edições \n* versão para Estudantes\n* Casa e Negócios\n* Casa e Estudantes\n* Standard"
+  - version: Original Release
+    startDate: 09/24/2018
+    endDate: 10/10/2023
+content: |
+
+
+
+  ## <a name="editions"></a>Edições 
+  * versão para Estudantes
+  * Casa e Negócios
+  * Casa e Estudantes
+  * Standard

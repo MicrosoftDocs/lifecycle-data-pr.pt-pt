@@ -3,33 +3,29 @@ metadata:
   title: Microsoft System Center Data Protection Manager 2007
   description: O Microsoft System Center Data Protection Manager 2007 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
-  ms.openlocfilehash: ca60c8ab7630e2ee264017a572243b9f68643607
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: pt-PT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "833348"
 name: Microsoft System Center Data Protection Manager 2007
-summary: >
+summary: |
   O Microsoft System Center Data Protection Manager 2007 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
-
   > [!IMPORTANT]
-
   > O suporte para este produto terminou. Ver abaixo as orientações sobre migração.
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 12/15/2007
   end: 01/08/2013
   extendedEnd: 01/09/2018
 releases:
-- version: Service Pack 1
-  startDate: 12/19/2008
-  endDate: 01/09/2018
-- version: Original Release
-  startDate: 12/15/2007
-  endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](https://blogs.technet.microsoft.com/dpm/2017/01/10/system-center-data-protection-manager-2007-end-of-support/)\n* [Política do service pack](/lifecycle/policies/fixed#service-packs)"
+  - version: Service Pack 1
+    startDate: 12/19/2008
+    endDate: 01/09/2018
+  - version: Original Release
+    startDate: 12/15/2007
+    endDate: 01/12/2010
+content: |+
+
+  ## <a name="links"></a>Ligações 
+  * [Orientações sobre migração](https://blogs.technet.microsoft.com/dpm/2017/01/10/system-center-data-protection-manager-2007-end-of-support/)
+  * [Política do service pack](/lifecycle/policies/fixed#service-packs)
