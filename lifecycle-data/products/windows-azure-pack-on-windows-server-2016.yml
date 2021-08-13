@@ -3,26 +3,26 @@ metadata:
   title: Windows Azure Pack (no Windows Server 2016)
   description: O Windows Azure Pack (no Windows Server 2016) segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
-  ms.openlocfilehash: a3bc7138c47161efae20613f28d27e015d290e41
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: pt-PT
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "860319"
 name: Windows Azure Pack (no Windows Server 2016)
-summary: >+
+summary: |+
   O Windows Azure Pack (no Windows Server 2016) segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/12/2016
   end: 01/11/2022
   extendedEnd: 01/12/2027
 releases:
-- version: Original Release
-  startDate: 10/12/2016
-  endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>Ligações \n* [Mais Informação](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n> [!NOTE]\n> O Windows Azure Pack para Windows Server é uma solução híbrida em nuvem que traz as tecnologias do Windows Azure para o seu datacenter. Permite que os clientes da Microsoft ofereçam uma nuvem avançada, de gestão personalizada e com multi-inquilinos no hardware do seu datacenter sem nenhum custo adicional."
+  - version: Original Release
+    startDate: 10/12/2016
+    endDate: 01/12/2027
+content: |+
+
+  ## <a name="links"></a>Ligações 
+  * [Mais Informação](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))
+
+  > [!NOTE]
+  > O Windows Azure Pack para Windows Server é uma solução híbrida em nuvem que traz as tecnologias do Windows Azure para o seu datacenter. Permite que os clientes da Microsoft ofereçam uma nuvem avançada, de gestão personalizada e com multi-inquilinos no hardware do seu datacenter sem nenhum custo adicional.

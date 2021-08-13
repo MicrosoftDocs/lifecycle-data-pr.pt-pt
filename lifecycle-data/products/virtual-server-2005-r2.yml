@@ -3,27 +3,35 @@ metadata:
   title: Virtual Server 2005 R2
   description: O Virtual Server 2005 R2 segue a Política de Ciclo de Vida Fixa.
   ms.date: 09/01/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 0d4c323a758219f240fc6efbc4ebcfc99e470241
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: pt-PT
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937940"
+  keywords: 'Enterprise,Standard'
 name: Virtual Server 2005 R2
-summary: "O Virtual Server 2005 R2 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).\n\nIsto aplica-se às seguintes edições: Enterprise, Standard\n\n> [!IMPORTANT]\n> O suporte para este produto terminou. \n"
+summary: |
+  O Virtual Server 2005 R2 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
+
+  Isto aplica-se às seguintes edições: Enterprise, Standard
+
+  > [!IMPORTANT]
+  > O suporte para este produto terminou. 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 01/28/2006
   end: 01/12/2010
   extendedEnd: 01/13/2015
 releases:
-- version: Service Pack 1
-  startDate: 04/16/2007
-  endDate: 01/13/2015
-- version: Original Release
-  startDate: 01/28/2006
-  endDate: 07/08/2008
-content: "\n## <a name=\"links\"></a>Ligações \n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edições \n* Enterprise\n* Standard"
+  - version: Service Pack 1
+    startDate: 04/16/2007
+    endDate: 01/13/2015
+  - version: Original Release
+    startDate: 01/28/2006
+    endDate: 07/08/2008
+content: |
+
+  ## <a name="links"></a>Ligações 
+  * [Política do service pack](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Edições 
+  * Enterprise
+  * Standard
