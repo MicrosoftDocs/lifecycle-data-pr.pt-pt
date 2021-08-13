@@ -3,26 +3,26 @@ metadata:
   title: Microsoft Visual J# Versão 2.0 Redistributable Package Second Edition
   description: Microsoft Visual J# Versão 2.0 Redistributable Package Segunda Edição segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 13e81d8ba84a4aede4cd4df18a7e40d55de1d3dc
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: pt-PT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "832939"
 name: Microsoft Visual J# Versão 2.0 Redistributable Package Second Edition
-summary: >+
+summary: |+
   O Microsoft Visual J# Versão 2.0 Redistributable Package Segunda Edição segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 08/27/2007
   end: 10/09/2012
   extendedEnd: 10/10/2017
 releases:
-- version: Original Release
-  startDate: 08/27/2007
-  endDate: 10/10/2017
-content: "\n## <a name=\"links\"></a>Ligações \n* [Informação de suporte do Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n\n> [!NOTE]\n> O suporte para este produto terminou. Ver abaixo as orientações sobre migração."
+  - version: Original Release
+    startDate: 08/27/2007
+    endDate: 10/10/2017
+content: |+
+
+  ## <a name="links"></a>Ligações 
+  * [Informação de suporte do Visual J#](https://msdn.microsoft.com/vstudio/bb188593)
+
+  > [!NOTE]
+  > O suporte para este produto terminou. Ver abaixo as orientações sobre migração.

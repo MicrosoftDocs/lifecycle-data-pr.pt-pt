@@ -3,26 +3,28 @@ metadata:
   title: Hyper-V Server 2008 R2
   description: O Hyper-V Server 2008 R2 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 6887524823a979fc8ea45c7745423de784efec7e
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: pt-PT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "833505"
 name: Hyper-V Server 2008 R2
-summary: "O Hyper-V Server 2008 R2 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).\n\n\n> [!IMPORTANT]\n> O suporte para este produto terminou. Ver abaixo as orientações sobre migração. \n"
+summary: |
+  O Hyper-V Server 2008 R2 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
+
+
+  > [!IMPORTANT]
+  > O suporte para este produto terminou. Ver abaixo as orientações sobre migração. 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/22/2009
   end: 01/14/2014
   extendedEnd: 01/14/2020
 releases:
-- version: Service Pack 1
-  startDate: 04/12/2011
-  endDate: 01/14/2020
-- version: Original Release
-  startDate: 10/22/2009
-  endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](/windows-server/get-started/modernize-windows-server-2008)"
+  - version: Service Pack 1
+    startDate: 04/12/2011
+    endDate: 01/14/2020
+  - version: Original Release
+    startDate: 10/22/2009
+    endDate: 04/10/2012
+content: |+
+
+  ## <a name="links"></a>Ligações 
+  * [Orientações sobre migração](/windows-server/get-started/modernize-windows-server-2008)

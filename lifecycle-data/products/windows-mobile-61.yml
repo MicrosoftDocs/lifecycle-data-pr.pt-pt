@@ -3,32 +3,30 @@ metadata:
   title: Windows Mobile 6.1
   description: O Windows Mobile 6.1 segue a Política de Ciclo de Vida Fixa.
   ms.date: 09/01/2020
-  keywords: Adaptation Kit,Professional,Standard
-  ms.openlocfilehash: 97c434aaac90a1923508ffe5b1d18e735bfa4101
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: pt-PT
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939827"
+  keywords: 'Adaptation Kit,Professional,Standard'
 name: Windows Mobile 6.1
-summary: >
+summary: |
   O Windows Mobile 6.1 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
-
 
   Isto aplica-se às seguintes edições: Kit de Adaptação, Professional, Standard
 
-
   > [!IMPORTANT]
-
   > O suporte para este produto terminou.
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 07/01/2008
   end: 01/08/2013
 releases:
-- version: Original Release
-  startDate: 07/01/2008
-  endDate: 01/08/2013
-content: "\n\n\n## <a name=\"editions\"></a>Edições \n* Kit de Adaptação\n* Professional\n* Standard"
+  - version: Original Release
+    startDate: 07/01/2008
+    endDate: 01/08/2013
+content: |
+
+
+
+  ## <a name="editions"></a>Edições 
+  * Kit de Adaptação
+  * Professional
+  * Standard
