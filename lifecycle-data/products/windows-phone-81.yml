@@ -3,29 +3,27 @@ metadata:
   title: Windows Phone 8.1
   description: O Windows Phone 8.1 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
-  ms.openlocfilehash: d81cd34117e63701bf48f128d7d3aafdd93ac581
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: pt-PT
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "860578"
 name: Windows Phone 8.1
-summary: >
+summary: |
   O Windows Phone 8.1 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
-
   > [!IMPORTANT]
-
   > O suporte para este produto terminou.
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 06/24/2014
   end: 07/11/2017
 releases:
-- version: Original Release
-  startDate: 06/24/2014
-  endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Ligações \n* [Perguntas Frequentes sobre Windows Phone 8.1](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> A Microsoft disponibilizará atualizações para o Sistema Operativo, incluindo atualizações de segurança, durante um mínimo de 36 meses após a data de início do ciclo de vida. Estas atualizações serão incrementais, com cada atualização realizada sobre a atualização anterior. Para continuar a receber suporte, os clientes devem instalar todas as atualizações disponibilizadas. A distribuição dessas atualizações incrementais pode ser controlada pela operadora móvel ou pelo fabricante ao qual comprou o seu telemóvel, e a instalação exigirá que o seu telefone tenha alguma das atualizações prévias. A disponibilidade das atualizações também irá variar consoante o país, região e capacidades de hardware."
+  - version: Original Release
+    startDate: 06/24/2014
+    endDate: 07/11/2017
+content: |+
+
+  ## <a name="links"></a>Ligações 
+  * [Perguntas Frequentes sobre Windows Phone 8.1](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)
+
+  > [!NOTE]
+  > A Microsoft disponibilizará atualizações para o Sistema Operativo, incluindo atualizações de segurança, durante um mínimo de 36 meses após a data de início do ciclo de vida. Estas atualizações serão incrementais, com cada atualização realizada sobre a atualização anterior. Para continuar a receber suporte, os clientes devem instalar todas as atualizações disponibilizadas. A distribuição dessas atualizações incrementais pode ser controlada pela operadora móvel ou pelo fabricante ao qual comprou o seu telemóvel, e a instalação exigirá que o seu telefone tenha alguma das atualizações prévias. A disponibilidade das atualizações também irá variar consoante o país, região e capacidades de hardware.

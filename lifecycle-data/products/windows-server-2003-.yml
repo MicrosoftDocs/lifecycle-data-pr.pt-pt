@@ -3,35 +3,46 @@ metadata:
   title: 'Windows Server 2003 '
   description: O Windows Server 2003 segue a Política de Ciclo de Vida Fixa.
   ms.date: 09/01/2020
-  keywords: Datacenter (32-bit x86),Datacenter (x64),Datacenter for Itanium-Based Systems,Enterprise (32-Bit x86),Enterprise for Itanium-based Systems,Enterprise X64,Standard (32-bit x86),Web
-  ms.openlocfilehash: c11990954fd21dad1b968cf849bc9359008c9c07
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: pt-PT
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939605"
+  keywords: 'Datacenter (32-bit x86),Datacenter (x64),Datacenter for Itanium-Based Systems,Enterprise (32-Bit x86),Enterprise for Itanium-based Systems,Enterprise X64,Standard (32-bit x86),Web'
 name: 'Windows Server 2003 '
-summary: >+
+summary: |+
   O Windows Server 2003 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
-
 
   Isto aplica-se às seguintes edições: Datacenter (32 bits x86), Datacenter (x64), Datacenter para Sistemas Baseados em Itanium, Enterprise (32 bits x86), Enterprise para Sistemas Baseados em Itanium, Enterprise X64, Standard (32 bits x86), Web
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 05/28/2003
   end: 07/13/2010
   extendedEnd: 07/14/2015
 releases:
-- version: Service Pack 2
-  startDate: 03/13/2007
-  endDate: 07/14/2015
-- version: Service Pack 1
-  startDate: 03/30/2005
-  endDate: 04/14/2009
-- version: Original Release
-  startDate: 05/28/2003
-  endDate: 04/10/2007
-content: "\n## <a name=\"links\"></a>Ligações \n* [Caminhos suportados para atualização do Windows Server 2003 para o Windows Server 2008](https://support.microsoft.com/pt-pt/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)\n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n* [Prepare as máquinas do Windows Server 2003 para migração](/azure/migrate/prepare-windows-server-2003-migration)\n\n> [!NOTE]\n> Os Sistemas Baseados em Itanium têm data de início em 19 de junho de 2003.\n\n## <a name=\"editions\"></a>Edições \n* Datacenter (32 bits x86)\n* Datacenter (x64)\n* Datacenter para Sistemas Baseados em Itanium\n* Enterprise (32 bits x86)\n* Enterprise  para Sistemas baseados em Itanium\n* Empresarial X64\n* Standard (32 bits x86)\n* Web"
+  - version: Service Pack 2
+    startDate: 03/13/2007
+    endDate: 07/14/2015
+  - version: Service Pack 1
+    startDate: 03/30/2005
+    endDate: 04/14/2009
+  - version: Original Release
+    startDate: 05/28/2003
+    endDate: 04/10/2007
+content: |
+
+  ## <a name="links"></a>Ligações 
+  * [Caminhos suportados para atualização do Windows Server 2003 para o Windows Server 2008](https://support.microsoft.com/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)
+  * [Política do service pack](/lifecycle/policies/fixed#service-packs)
+  * [Prepare as máquinas do Windows Server 2003 para migração](/azure/migrate/prepare-windows-server-2003-migration)
+
+  > [!NOTE]
+  > Os Sistemas Baseados em Itanium têm data de início em 19 de junho de 2003.
+
+  ## <a name="editions"></a>Edições 
+  * Datacenter (32 bits x86)
+  * Datacenter (x64)
+  * Datacenter para Sistemas Baseados em Itanium
+  * Enterprise (32 bits x86)
+  * Enterprise  para Sistemas baseados em Itanium
+  * Empresarial X64
+  * Standard (32 bits x86)
+  * Web

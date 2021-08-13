@@ -3,26 +3,23 @@ metadata:
   title: Adaptadores BizTalk Microsoft para Host Systems
   description: Os Adaptadores Microsoft BizTalk para Sistemas Anfitrião seguem a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 8511f6bc704fc691f71e2057ce4a72da3228f163
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: pt-PT
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "833456"
 name: Adaptadores BizTalk Microsoft para Host Systems
-summary: >+
+summary: |+
   Os Adaptadores Microsoft BizTalk para Sistemas Anfitrião seguem a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 01/27/2007
   end: 04/10/2012
   extendedEnd: 04/11/2017
 releases:
-- version: Original Release
-  startDate: 01/27/2007
-  endDate: 04/11/2017
-content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](https://blogs.msdn.microsoft.com/hostintegrationserver/2016/09/06/end-of-support-for-host-integration-server-2006)"
+  - version: Original Release
+    startDate: 01/27/2007
+    endDate: 04/11/2017
+content: |+
+
+  ## <a name="links"></a>Ligações 
+  * [Orientações sobre migração](https://blogs.msdn.microsoft.com/hostintegrationserver/2016/09/06/end-of-support-for-host-integration-server-2006)

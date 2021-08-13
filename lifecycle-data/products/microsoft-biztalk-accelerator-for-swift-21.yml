@@ -3,32 +3,33 @@ metadata:
   title: Microsoft BizTalk Accelerator for SWIFT 2.1
   description: O Microsoft BizTalk Accelerator for SWIFT 2.1 segue a Política de Ciclo de Vida Fixa.
   ms.date: 09/10/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 4690a58d3edb34b38381bf2afc596f0086952daf
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: pt-PT
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1000109"
+  keywords: 'Enterprise,Standard'
 name: Microsoft BizTalk Accelerator for SWIFT 2.1
-summary: >+
+summary: |+
   O Microsoft BizTalk Accelerator for SWIFT 2.1 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
-
 
   Isto aplica-se às seguintes edições: Enterprise, Standard
 
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 07/21/2005
   end: 10/12/2010
   extendedEnd: 10/13/2015
 releases:
-- version: Service Pack 1
-  startDate: 09/25/2006
-  endDate: 10/13/2015
-- version: Original Release
-  startDate: 07/21/2005
-  endDate: 10/14/2008
-content: "\n## <a name=\"links\"></a>Ligações \n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edições \n* Enterprise\n* Standard"
+  - version: Service Pack 1
+    startDate: 09/25/2006
+    endDate: 10/13/2015
+  - version: Original Release
+    startDate: 07/21/2005
+    endDate: 10/14/2008
+content: |
+
+  ## <a name="links"></a>Ligações 
+  * [Política do service pack](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Edições 
+  * Enterprise
+  * Standard
