@@ -3,26 +3,20 @@ metadata:
   title: Servidor de Gestão de Controlo de Auditoria 2013 do Microsoft Office
   description: O Servidor de Gestão de Controlo de Auditoria 2013 do Microsoft Office segue a Política de Ciclo de Vida Fixa.
   ms.date: 08/21/2020
-  ms.openlocfilehash: 95c21c2239aee0e4e83c2caf5dc3752c0915b58e
-  ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
-  ms.translationtype: HT
-  ms.contentlocale: pt-PT
-  ms.lasthandoff: 08/21/2020
-  ms.locfileid: "907922"
 name: Servidor de Gestão de Controlo de Auditoria 2013 do Microsoft Office
-summary: >+
+summary: |+
   O Servidor de Gestão de Controlo de Auditoria 2013 do Microsoft Office segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 07/16/2013
   end: 10/09/2018
   extendedEnd: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 07/16/2013
-  endDate: 10/10/2023
-content: ''
+  - version: Original Release
+    startDate: 07/16/2013
+    endDate: 10/10/2023
+content: |+
