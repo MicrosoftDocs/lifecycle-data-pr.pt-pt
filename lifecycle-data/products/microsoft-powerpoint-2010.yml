@@ -3,29 +3,28 @@ metadata:
   title: Microsoft PowerPoint 2010
   description: O Microsoft PowerPoint 2010 segue a Política de Ciclo de Vida Fixa.
   ms.date: 09/01/2020
-  keywords: Home and Student,Standard
-  ms.openlocfilehash: 456aacd4e7c600f852b3a7fb169afc68163bf95c
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: pt-PT
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "930059"
+  keywords: 'Home and Student,Standard'
 name: Microsoft PowerPoint 2010
-summary: >+
+summary: |+
   O Microsoft PowerPoint 2010 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
-
 
   Isto aplica-se às seguintes edições: Casa e Estudantes, Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 07/15/2010
   end: 10/13/2015
   extendedEnd: 10/13/2020
 releases:
-- version: Original Release
-  startDate: 07/15/2010
-  endDate: 10/13/2020
-content: "\n\n\n## <a name=\"editions\"></a>Edições \n* Casa e Estudantes\n* Standard"
+  - version: Original Release
+    startDate: 07/15/2010
+    endDate: 10/13/2020
+content: |
+
+
+
+  ## <a name="editions"></a>Edições 
+  * Casa e Estudantes
+  * Standard

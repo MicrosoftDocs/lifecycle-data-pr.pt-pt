@@ -4,28 +4,26 @@ metadata:
   description: O Word 2013 segue a Política de Ciclo de Vida Fixa.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: b08705b30333f7f619339b95da3aafc1d047f7de
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: pt-PT
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938680"
 name: Word 2013
-summary: >+
+summary: |+
   O Word 2013 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
-
 
   Isto aplica-se às seguintes edições: Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 01/09/2013
   end: 04/10/2018
   extendedEnd: 04/11/2023
 releases:
-- version: Original Release
-  startDate: 01/09/2013
-  endDate: 04/11/2023
-content: "\n\n\n## <a name=\"editions\"></a>Edições \n* Standard"
+  - version: Original Release
+    startDate: 01/09/2013
+    endDate: 04/11/2023
+content: |
+
+
+
+  ## <a name="editions"></a>Edições 
+  * Standard
