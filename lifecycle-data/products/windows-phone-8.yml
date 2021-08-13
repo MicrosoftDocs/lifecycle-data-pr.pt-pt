@@ -3,24 +3,22 @@ metadata:
   title: Windows Phone 8
   description: O Windows Phone 8 segue a Política de Ciclo de Vida Fixa.
   ms.date: 08/19/2020
-  ms.openlocfilehash: 414496ab55aa39619921de70d0df779cc4403a50
-  ms.sourcegitcommit: 37ac01a1d5492bb2bf54cbd018ea34074db8c998
-  ms.translationtype: HT
-  ms.contentlocale: pt-PT
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "940917"
 name: Windows Phone 8
-summary: >+
+summary: |+
   O Windows Phone 8 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 12/14/2012
   end: 07/08/2014
 releases:
-- version: Original Release
-  startDate: 12/14/2012
-content: "\n\n> [!NOTE]\n> A Microsoft disponibilizará atualizações para o Sistema Operativo, incluindo atualizações de segurança, durante um mínimo de 36 meses após a data de início do ciclo de vida. Estas atualizações serão incrementais, com cada atualização realizada sobre a atualização anterior. Para continuar a receber suporte, os clientes devem instalar todas as atualizações disponibilizadas. A distribuição dessas atualizações incrementais pode ser controlada pela operadora móvel ou pelo fabricante ao qual comprou o seu telemóvel, e a instalação exigirá que o seu telefone tenha alguma das atualizações prévias. A disponibilidade das atualizações também irá variar consoante o país, região e capacidades de hardware."
+  - version: Original Release
+    startDate: 12/14/2012
+content: |+
+
+
+  > [!NOTE]
+  > A Microsoft disponibilizará atualizações para o Sistema Operativo, incluindo atualizações de segurança, durante um mínimo de 36 meses após a data de início do ciclo de vida. Estas atualizações serão incrementais, com cada atualização realizada sobre a atualização anterior. Para continuar a receber suporte, os clientes devem instalar todas as atualizações disponibilizadas. A distribuição dessas atualizações incrementais pode ser controlada pela operadora móvel ou pelo fabricante ao qual comprou o seu telemóvel, e a instalação exigirá que o seu telefone tenha alguma das atualizações prévias. A disponibilidade das atualizações também irá variar consoante o país, região e capacidades de hardware.

@@ -3,33 +3,32 @@ metadata:
   title: Servidor de Proteção e Licenciamento de Software
   description: O Servidor de Proteção e Licenciamento de Software segue a Política de Ciclo de Vida Fixa.
   ms.date: 09/10/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 567392e4c49c46a29c7f9f80730542f0ded21608
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: pt-PT
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001068"
+  keywords: 'Enterprise,Standard'
 name: Servidor de Proteção e Licenciamento de Software
-summary: >
+summary: |
   O Servidor de Proteção e Licenciamento de Software segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
-
 
   Isto aplica-se às seguintes edições: Enterprise, Standard
 
-
   > [!IMPORTANT]
-
   > Devido à alienação do Servidor de Proteção e Licenciamento de Software (SLPS), a Microsoft suportou o SLPS até 24 de setembro de 2009.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 12/30/2007
   end: 09/24/2009
   extendedEnd: 09/24/2009
 releases:
-- version: Original Release
-  startDate: 12/30/2007
-  endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Ligações \n* [Servidor de Proteção e Licenciamento de Software (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Edições \n* Enterprise\n* Standard"
+  - version: Original Release
+    startDate: 12/30/2007
+    endDate: 01/09/2018
+content: |
+
+  ## <a name="links"></a>Ligações 
+  * [Servidor de Proteção e Licenciamento de Software (SLPS)](https://www.microsoft.com/slps)
+
+
+  ## <a name="editions"></a>Edições 
+  * Enterprise
+  * Standard
