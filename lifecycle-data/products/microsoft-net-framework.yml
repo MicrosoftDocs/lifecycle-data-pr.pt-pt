@@ -2,23 +2,26 @@
 metadata:
   title: Microsoft .NET Framework
   description: O Microsoft .NET Framework segue a Política de Ciclo de Vida do Componente.
-  ms.date: 04/26/2021
+  ms.date: 09/13/2021
   keywords: Entity Framework Core
-  ms.openlocfilehash: 8d6d645959c8da911aa7dead4718fb998116c8481890468df0f552c9edd8bd9a
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: f49285dd25e5227b9903b04ab1a7e82f720a3233
+  ms.sourcegitcommit: 997d3fcd1eb2b32835a349b558316fb0ae245510
   ms.translationtype: HT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2489570"
+  ms.lasthandoff: 09/15/2021
+  ms.locfileid: "3452639"
 name: Microsoft .NET Framework
-summary: >
+summary: >+
   O Microsoft .NET Framework segue a Política de Ciclo de Vida do [Componente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
+
+
 
 
 
   > [!IMPORTANT]
 
   > Os .NET Framework 4.5.2, 4.6, e 4.61 serão descontinuados a 26 de abril de 2022. Estas versões específicas eram anteriormente assinadas digitalmente usando certificados Algoritmo Hash Seguro (SHA-1). Este algoritmo já não é considerado seguro. Os clientes são incentivados a mudar para o SHA-2. Aceda [aqui](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022) para obter mais informações.
+
 products:
 - dotnet
 policyType: component
@@ -50,6 +53,9 @@ releases:
 - version: .NET Framework 4.5
   startDate: 10/09/2012
   endDate: 01/12/2016
+- version: .NET Framework 4.0
+  startDate: 04/12/2010
+  endDate: 01/12/2016
 - version: .NET Framework 3.5 Service Pack 1
   startDate: 11/19/2007
   endDate: 01/09/2029
@@ -59,4 +65,4 @@ releases:
 - version: .NET Framework 2.0
   startDate: 02/17/2006
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Ligações \n* [Perguntas Frequentes sobre o Ciclo de Vida - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Informações sobre produtos](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n* [O .NET Framework descontinuará o 4.5.2, 4.6, 4.61](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022)\n\n> [!NOTE]\n> O .NET Framework 3.5 Service Pack 1 (SP1) é um produto autónomo que segue a Política Fixa, começando com o Windows 10, versão 1809 e Windows Server 2019. Antes disso, o .NET Framework 3.5 SP1 é considerado um componente do sistema operacional Windows no qual está instalado."
+content: "\n\n## <a name=\"links\"></a>Ligações \n* [Perguntas Frequentes sobre o Ciclo de Vida - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Informações sobre produtos](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n* [O .NET Framework descontinuará o 4.5.2, 4.6, 4.61](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022)\n\n\n> [!NOTE]\n> O .NET Framework 3.5 Service Pack 1 (SP1) é um produto autónomo que segue a Política Fixa, começando com o Windows 10, versão 1809 e Windows Server 2019. Antes disso, o .NET Framework 3.5 SP1 é considerado um componente do sistema operacional Windows no qual está instalado."
