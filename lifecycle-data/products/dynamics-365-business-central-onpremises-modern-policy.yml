@@ -2,35 +2,41 @@
 metadata:
   title: Dynamics 365 Business Central no local (Política Moderna)
   description: A Dynamics 365 Business Central no local (Política Moderna) segue a Política de Ciclo de Vida Moderna.
-  ms.date: 03/16/2021
-  keywords: null
+  ms.date: 09/30/2021
+  keywords: 
+  ms.openlocfilehash: 5397fa5347fb17823eeec8f9512f0c0243de2931
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: pt-PT
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509151"
 name: Dynamics 365 Business Central no local (Política Moderna)
-summary: |+
+summary: >+
   A Dynamics 365 Business Central no local (Política Moderna) segue a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
 
 
+
+
+
 products:
-  - dynamics
+- dynamics
 policyType: modern-on-prem
 supportDates:
   start: 10/01/2019
 releases:
-  - version: '2021 release wave 1, version 18.x'
-    startDate: 04/01/2021
-    endDate: 10/11/2022
-  - version: '2020 release wave 2, version 17.x'
-    startDate: 10/01/2020
-    endDate: 04/12/2022
-  - version: '2020 release wave 1, version 16.x'
-    startDate: 04/01/2020
-    endDate: 10/12/2021
-  - version: '2019 release wave 2, version 15.x'
-    startDate: 10/01/2019
-    endDate: 04/13/2021
-content: |+
-
-  ## <a name="links"></a>Ligações 
-  * [Informação de Manutenção](/dynamics365/business-central/dev-itpro/terms/lifecycle-policy-on-premises#modern-lifecycle-policy)
-  * [Mapa de Objetivos do Microsoft Dynamics 365](https://aka.ms/businessappsreleasenotes)
-  * [Requisitos de sistema](/dynamics365/business-central/product-requirements)
-  * [Perguntas Frequentes](/dynamics365/business-central/dev-itpro/faq)
+- version: 2021 release wave 2, version 19.x
+  startDate: 10/01/2021
+  endDate: 04/12/2023
+- version: 2021 release wave 1, version 18.x
+  startDate: 04/01/2021
+  endDate: 10/11/2022
+- version: 2020 release wave 2, version 17.x
+  startDate: 10/01/2020
+  endDate: 04/12/2022
+- version: 2020 release wave 1, version 16.x
+  startDate: 04/01/2020
+  endDate: 10/12/2021
+- version: 2019 release wave 2, version 15.x
+  startDate: 10/01/2019
+  endDate: 04/13/2021
+content: "\n\n## <a name=\"links\"></a>Ligações \n* [Informação de Manutenção](/dynamics365/business-central/dev-itpro/terms/lifecycle-policy-on-premises#modern-lifecycle-policy)\n* [Mapa de Objetivos do Microsoft Dynamics 365](https://aka.ms/businessappsreleasenotes)\n* [Requisitos de sistema](/dynamics365/business-central/product-requirements)\n* [Perguntas Frequentes](/dynamics365/business-central/dev-itpro/faq)"
