@@ -2,21 +2,21 @@
 metadata:
   title: Visual Studio 2010
   description: O Visual Studio 2010 segue a Política de Ciclo de Vida Fixa.
-  ms.date: 05/28/2021
-  keywords: vsto,Agents,All,ASP .NET MVC 4,Express,F# 2.0 Runtime,Lab Management,Performance Tools,Premium,Professional,Professional w/MSDN ,PSM,Remote Debugger,SDK,Shell (Integrated),Shell (Isolated),Team Agents,Team Explorer,Test Professional,Ultimate,Ultimate with MSDN,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express,Visualization & Modeling SDK
-  ms.openlocfilehash: 9c47b333fbc21c3838ae632cf564e3902ed5009f233804ae919fcb82978c0395
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.date: 10/07/2021
+  keywords: vsto,Express for Web,Express for Windows Phone,Premium,Professional,Test Professional,Ultimate,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express
+  ms.openlocfilehash: eea7c383adbd91aeea6893503808cc7ec675ea8f
+  ms.sourcegitcommit: f740c7c0a548d726572fda7cefa9ec8b630a27c7
   ms.translationtype: HT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2512510"
+  ms.lasthandoff: 10/07/2021
+  ms.locfileid: "3510958"
 name: Visual Studio 2010
 summary: >+
   O Visual Studio 2010 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 
-  Isto aplica-se às seguintes edições: Agentes, Todas, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Professional w/MSDN , PSM, Remote Debugger, SDK, Shell (Integrated), Shell (Isolated), Team Agents, Team Explorer, Test Professional, Ultimate, Ultimate with MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
+  Isto aplica-se às seguintes edições: Express para Web, Express para Windows Phone, Premium, Professional, Test Professional, Ultimate, Visual Basic Express, Visual C# Express, Visual C Express, Visual Web Developer Express
 
 
 
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n\n## <a name=\"links\"></a>Ligações \n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n\n> [!NOTE]\n> O Tempo de Execução do Visual Studio 2010 Tools for Office (VSTO) vem com várias versões do Visual Studio e do Microsoft Office e segue o ciclo de vida do produto principal. Também pode ser transferido separadamente, [aqui](https://www.microsoft.com/download/details.aspx?id=56961).\n\n\n## <a name=\"editions\"></a>Edições \n* Agents\n* Todos\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Ferramentas de Desempenho\n* Premium\n* Professional\n* Professional c/ MSDN \n* PSM\n* Remote Debugger\n* SDK\n* Shell (Integrada)\n* Shell (Isolada)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Ultimate\n* Ultimate com MSDN\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Visualização e Modelação SDK"
+content: "\n\n## <a name=\"links\"></a>Ligações \n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n\n> [!NOTE]\n> As versões do Visual Studio 2010 dos seguintes componentes são fornecidas e suportadas como parte do ciclo de vida do Visual Studio 2010: Agents, All, ASP.NET MVC 4, F# 2.0 Runtime, VSTO Runtime, Lab Management, Performance Tools, Professional w/MSDN, PSM, Remote Debugger, SDK, Shell (Integrado), Shell (Isolado), Team Agents, Team Explorer, Ultimate with MSDN, Visualization & Modelling SDK.\n\n\n## <a name=\"editions\"></a>Edições \n* Express para Web\n* Express para Windows Phone\n* Premium\n* Professional\n* Test Professional\n* Ultimate\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express"
