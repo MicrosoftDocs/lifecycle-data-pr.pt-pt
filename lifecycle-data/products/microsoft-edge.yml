@@ -2,30 +2,32 @@
 metadata:
   title: Microsoft Edge
   description: O Microsoft Edge segue a Política de Ciclo de Vida Moderna.
-  ms.date: 07/17/2021
-  keywords: null
+  ms.date: 11/03/2021
+  keywords: IE; browser; Internet Explorer
+  ms.openlocfilehash: aeeec6371116d5551ed604a7c3cd5ccefc46117d
+  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+  ms.translationtype: HT
+  ms.contentlocale: pt-PT
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "3560069"
 name: Microsoft Edge
-summary: |+
+summary: >+
   O Microsoft Edge segue a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
 
 
 
 
+
   > [!IMPORTANT]
+
   > Note que o suporte da versão legada deste produto termina a 9 de março de 2021. Aceda [aqui](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) para obter mais informações.
 
 products:
-  - microsoft-edge
+- microsoft-edge
 policyType: modern-on-prem
 supportDates:
   start: 01/15/2020
 releases:
-  - version: Original Release
-    startDate: 01/15/2020
-content: |+
-
-
-  ## <a name="links"></a>Ligações 
-  * [Sistemas operativos suportados pelo Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)
-  * [Perguntas Frequentes sobre o Ciclo de Vida - Internet Explorer e Edge](/lifecycle/faq/internet-explorer-microsoft-edge)
-  * [Política de Ciclo de Vida do Microsoft Edge](/deployedge/microsoft-edge-support-lifecycle)
+- version: Original Release
+  startDate: 01/15/2020
+content: "\n\n## <a name=\"links\"></a>Ligações \n* [Sistemas operativos suportados pelo Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)\n* [Novos recursos para acelerar a mudança para o Edge](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [Perguntas Frequentes sobre o Ciclo de Vida - Internet Explorer e Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Política de Ciclo de Vida do Microsoft Edge](/deployedge/microsoft-edge-support-lifecycle)"
