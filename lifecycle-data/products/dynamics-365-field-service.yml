@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics 365 Field Service
+  description: O Dynamics 365 Field Service segue a Política de Ciclo de Vida Moderna.
+  ms.date: 2022/03/11
+  keywords: Xamarin, field service mobile, mobile
+  ms.openlocfilehash: 76b0b6832ddeb85a55d84e377c8d26482e7eb87d
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: pt-PT
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4157062"
+name: Dynamics 365 Field Service
+summary: >+
+  O Dynamics 365 Field Service segue a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
+
+
+
+
+
+  > [!IMPORTANT]
+
+  > Tenha em atenção que a aplicação legada Field Service Mobile (Xamarin) será reformada a 30 de junho de 2022. Os clientes devem migrar para a aplicação móvel [Field Service (Dynamics 365)](https://docs.microsoft.com/dynamics365/field-service/mobile-2020-power-platform) antes dessa data. Para obter mais informações, consulte as [FAQs do Fim do Suporte do Field Service Mobile Xamarin](https://docs.microsoft.com/dynamics365/field-service/activate-fs-mobile-app-license#faqs).
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 2016-05-02T00:00:00.000-08:00
+releases:
+- version: Original Release
+  startDate: 2016-05-02T00:00:00.000-08:00
+content: "\n\n## <a name=\"links\"></a>Ligações \n* [Informações sobre produtos](/dynamics365/field-service/overview)\n* [Informações de migração da aplicação móvel Dynamics 365 Field Service](https://aka.ms/fsmobile-adoption)"

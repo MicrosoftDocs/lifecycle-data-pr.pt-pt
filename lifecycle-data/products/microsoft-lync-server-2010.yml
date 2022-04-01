@@ -4,12 +4,12 @@ metadata:
   description: O Microsoft Lync Server 2010 segue a Política de Ciclo de Vida Fixa.
   ms.date: 03/22/2021
   keywords: 
-  ms.openlocfilehash: 7fe8308c5b804197ff84afb1a4911e30dd48b812a8154ed9c305602efc850631
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 23b077589c0d8b1c34862942102106f3457e7634
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2489644"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4145721"
 name: Microsoft SharePoint Server 2010
 summary: >+
   O Microsoft Lync Server 2010 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
@@ -21,11 +21,11 @@ products:
 - office
 policyType: fixed
 supportDates:
-  start: 01/25/2011
-  end: 04/12/2016
-  extendedEnd: 04/13/2021
+  start: 2011-01-25T00:00:00.000-08:00
+  end: 2016-04-12T22:59:59.999-08:00
+  extendedEnd: 2021-04-13T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 01/25/2011
-  endDate: 04/13/2021
+  startDate: 2011-01-25T00:00:00.000-08:00
+  endDate: 2021-04-13T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>Ligações \n* [Lync Phone Edition](/lifecycle/products/microsoft-lync-phone-edition?branch=live)\n\n> [!NOTE]\n> O Lync Phone Edition é suportado com Lync Server 2010 e Lync Server 2013. A data de suporte para Lync Phone Edition foi alargada por 2 anos para se alinhar ao ciclo de vida do Lync Server 2013.\n\n## <a name=\"editions\"></a>Edições \n* Enterprise\n* Group Chat Software Development Kit\n* SDK\n* Standard"

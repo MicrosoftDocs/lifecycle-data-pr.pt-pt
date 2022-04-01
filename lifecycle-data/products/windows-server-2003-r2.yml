@@ -3,10 +3,17 @@ metadata:
   title: Windows Server 2003 R2
   description: O Windows Server 2003 R2 segue a Política de Ciclo de Vida Fixa.
   ms.date: 05/26/2021
-  keywords: null
+  keywords: 
+  ms.openlocfilehash: 067541c88e29b4bd728c5d5796e3bea3609dbeb6
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: pt-PT
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4151287"
 name: Windows Server 2003 R2
-summary: |+
+summary: >+
   O Windows Server 2003 R2 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
+
 
 
   Isto aplica-se às seguintes edições: Datacenter, Datacenter (32 bits x86), Datacenter (x64), Enterprise (32 bits x86), Enterprise X64, Standard (32 bits x86), Standard X64
@@ -14,35 +21,17 @@ summary: |+
 
 
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 03/05/2006
-  end: 07/13/2010
-  extendedEnd: 07/14/2015
+  start: 2006-03-05T00:00:00.000-08:00
+  end: 2010-07-13T22:59:59.999-08:00
+  extendedEnd: 2015-07-14T22:59:59.999-08:00
 releases:
-  - version: Service Pack 2
-    startDate: 03/13/2007
-    endDate: 07/14/2015
-  - version: Original Release
-    startDate: 03/05/2006
-    endDate: 04/14/2009
-content: |+
-
-
-  ## <a name="links"></a>Ligações 
-  * [Política do service pack](/lifecycle/policies/fixed#service-packs)
-  * [Caminhos suportados para atualização do Windows Server 2003 para o Windows Server 2008](https://support.microsoft.com/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)
-  * [Prepare as máquinas do Windows Server 2003 para migração](/azure/migrate/prepare-windows-server-2003-migration)
-
-
-
-
-  ## <a name="editions"></a>Edições 
-  * Datacenter
-  * Datacenter (32 bits x86)
-  * Datacenter (x64)
-  * Enterprise (32 bits x86)
-  * Empresarial X64
-  * Standard (32 bits x86)
-  * Standard X64
+- version: Service Pack 2
+  startDate: 2007-03-13T00:00:00.000-08:00
+  endDate: 2015-07-14T22:59:59.999-08:00
+- version: Original Release
+  startDate: 2006-03-05T00:00:00.000-08:00
+  endDate: 2009-04-14T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Ligações \n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n* [Caminhos suportados para atualização do Windows Server 2003 para o Windows Server 2008](https://support.microsoft.com/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)\n* [Prepare as máquinas do Windows Server 2003 para migração](/azure/migrate/prepare-windows-server-2003-migration)\n\n\n\n\n## <a name=\"editions\"></a>Edições \n* Datacenter\n* Datacenter (32 bits x86)\n* Datacenter (x64)\n* Enterprise (32 bits x86)\n* Empresarial X64\n* Standard (32 bits x86)\n* Standard X64"

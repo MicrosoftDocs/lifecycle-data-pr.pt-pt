@@ -3,29 +3,30 @@ metadata:
   title: Microsoft Forefront Endpoint Protection 2010
   description: O Microsoft Forefront Endpoint Protection 2010 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
+  ms.openlocfilehash: 3cf364424d7dee7eaba1a9fc6678faee5958d267
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: pt-PT
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4139357"
 name: Microsoft Forefront Endpoint Protection 2010
-summary: |
+summary: >
   O Microsoft Forefront Endpoint Protection 2010 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
+
   > [!IMPORTANT]
+
   > O suporte terminou. Ver abaixo as orientações sobre migração.
 products:
-  - office
+- office
 policyType: fixed
 supportDates:
-  start: 03/31/2011
-  end: 07/08/2014
-  extendedEnd: 07/09/2019
+  start: 2011-03-31T00:00:00.000-08:00
+  end: 2014-07-08T22:59:59.999-08:00
+  extendedEnd: 2019-07-09T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 03/31/2011
-    endDate: 07/09/2019
-content: |+
-
-  ## <a name="links"></a>Ligações 
-  * [Orientações sobre migração](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)
-  * [Informações de manutenção](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)
-
-  > [!NOTE]
-  > Os clientes devem permanecer atualizados com a última atualização da plataforma anti-malware para terem o suporte completo. O Forefront Endpoint Protection 2010 é abrangido pela mesma política de ciclo de vida do System Center Configuration Manager 2007 para o suporte base e para o alargado.
+- version: Original Release
+  startDate: 2011-03-31T00:00:00.000-08:00
+  endDate: 2019-07-09T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)\n* [Informações de manutenção](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n\n> [!NOTE]\n> Os clientes devem permanecer atualizados com a última atualização da plataforma anti-malware para terem o suporte completo. O Forefront Endpoint Protection 2010 é abrangido pela mesma política de ciclo de vida do System Center Configuration Manager 2007 para o suporte base e para o alargado."

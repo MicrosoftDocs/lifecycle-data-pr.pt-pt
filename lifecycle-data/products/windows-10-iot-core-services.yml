@@ -1,25 +1,29 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Serviços do Windows 10 IoT Core
+  title: Windows 10 IoT Core Services
   description: Os serviços do Windows 10 IoT Core seguem a Política de Ciclo de Vida Moderna.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9ce995e2110cb5a94a92622cdc747914de4fb23a3802b0c1c67339e697794100
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.date: 2022/03/08
+  keywords: 
+  ms.openlocfilehash: 6d8584eb944598b1ebf73a2db262cf4fbcffc5dd
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: pt-PT
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2497488"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4130440"
 name: Serviços do Windows 10 IoT Core
 summary: >+
   Os serviços do Windows 10 IoT Core seguem a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
+
+
+
 
 
 products:
 - windows
 policyType: modern-online
 supportDates:
-  start: 11/13/2018
+  start: 2018-11-13T00:00:00.000-08:00
 releases:
 - version: Original Release
-  startDate: 11/13/2018
-content: "\n## <a name=\"links\"></a>Ligações \n* [Serviços do Windows 10 IoT Core](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> O Windows 10 IoT Core Services é uma assinatura que oferece suporte a software como serviço, incluindo controlo de atualização com o Centro de Atualizações de Dispositivos e segurança melhorada com o Atestado de Estado de Funcionamento do Dispositivo, desde que execute uma versão suportada do Windows 10 IoT Core Software."
+  startDate: 2018-11-13T00:00:00.000-08:00
+content: "> [!TIP]\n> Este produto tem suporte através do [Windows 10 IoT 2019 LTSC](https://docs.microsoft.com/lifecycle/products/windows-10-iot-2019-ltsc).\n\n\n## <a name=\"links\"></a>Ligações \n* [Vista geral dos Serviços do Windows 10 IoT Core](http://aka.ms/IoTCoreServices)\n\n\n> [!NOTE]\n> Serviços do Windows 10 IoT Core é uma assinatura de suporte disponível com versões suportadas do [Windows 10 IoT Core](https://docs.microsoft.com/lifecycle/products/windows-10-iot-core)."

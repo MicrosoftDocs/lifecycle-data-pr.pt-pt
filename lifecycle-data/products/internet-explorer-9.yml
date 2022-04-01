@@ -3,24 +3,23 @@ metadata:
   title: Internet Explorer 9
   description: O Internet Explorer 9 segue a Política de Ciclo de Vida do Componente.
   ms.date: 08/12/2020
+  ms.openlocfilehash: f61f077fd1b92fb7ef960ad2fa68e6ac1ebdb88c
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: pt-PT
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4154379"
 name: Internet Explorer 9
-summary: |+
+summary: >+
   O Internet Explorer 9 segue a Política do Ciclo de Vida do [Componente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
-  - internet-explorer
+- internet-explorer
 policyType: component
 supportDates:
-  start: 03/15/2011
+  start: 2011-03-15T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 03/15/2011
-content: |+
-
-  ## <a name="links"></a>Ligações 
-  * [Orientações sobre migração](https://www.microsoft.com/itpro/microsoft-edge)
-  * [Perguntas Frequentes sobre Política de Ciclo de Vida do Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)
-
-  > [!NOTE]
-  > A partir de 12 de janeiro de 2016, apenas a versão mais recente do Internet Explorer disponível para um sistema operativo suportado irá receber suporte técnico e atualizações de segurança.
+- version: Original Release
+  startDate: 2011-03-15T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>Ligações \n* [Orientações sobre migração](https://www.microsoft.com/itpro/microsoft-edge)\n* [Perguntas Frequentes sobre Política de Ciclo de Vida do Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> A partir de 12 de janeiro de 2016, apenas a versão mais recente do Internet Explorer disponível para um sistema operativo suportado irá receber suporte técnico e atualizações de segurança."

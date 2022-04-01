@@ -1,13 +1,13 @@
 ---
 title: Produtos com Fim do Suporte em 2021
 description: Descubra que produtos serão descontinuados, alcançarão o fim de suporte ou passarão do suporte base para o suporte alargado em 2021.
-ms.date: 11/03/2021
-ms.openlocfilehash: a3404257f04c2f022e648e067f78204a220bd3fc
-ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+ms.date: 01/14/2022
+ms.openlocfilehash: e0be3c1d9300e53c4eb912b0f9347902948fb0f8
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/04/2021
-ms.locfileid: "4029258"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117490"
 ---
 # <a name="products-ending-support-in-2021"></a>Produtos com Fim de Suporte em 2021
 
@@ -24,7 +24,7 @@ Os seguintes produtos, regidos pela [Política Moderna](/lifecycle/policies/mod
 
 | Produto | Descontinuação |
 | --- | --- |
-| [Cliente do Azure Information Protection](/lifecycle/products/azure-information-protection-client?branch=live)<br> | 31 de março de 2021 |
+| [Cliente clássico do Azure Information Protection](/lifecycle/products/azure-information-protection-classic-client?branch=live)<br> | 31 de março de 2021 |
 | [Azure Dev Spaces](/lifecycle/products/azure-dev-spaces?branch=live)<br> | 15 de maio de 2021 |
 | [Skype para Empresas Online](/lifecycle/products/skype-for-business-online?branch=live)<br> | 31 de julho de 2021 |
 | [Dynamics 365 Layout](/lifecycle/products/dynamics-365-layout?branch=live)<br> | 31 de dezembro de 2021 |
@@ -39,7 +39,7 @@ Os seguintes lançamentos de produtos, regidos pela [Política Moderna](/lifecyc
 | [Microsoft Endpoint Configuration Manager, Versão 1906](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 26 de janeiro de 2021 |
 | [Dynamics 365 Business Central no local (Política Moderna), 2ª onda de lançamento de 2019, versão 15.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 13 de abril de 2021 |
 | [Windows 10 Enterprise e Education, Versão 1803](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Enterprise e Education, Versão 1809](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Casa e Pro, Versão 1909](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, Versão 1803](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows 10 IoT Enterprise, Versão 1809](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, Versão 1909](/lifecycle/products/windows-server?branch=live)<br> | 11 de maio de 2021 |
-| [Microsoft Endpoint Configuration Manager, Versão 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 29 de maio de 2021 |
+| [Microsoft Endpoint Configuration Manager, Versão 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br>[Microsoft Endpoint Configuration Manager, Versão 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 29 de maio de 2021 |
 | [.NET Core 2.1 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | 21 de agosto de 2021 |
 | [Microsoft Endpoint Configuration Manager, Versão 2002](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 1 de outubro de 2021 |
 | [Dynamics 365 Business Central no local (Política Moderna), 1ª onda de lançamento de 2020, versão 16.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 12 de outubro de 2021 |

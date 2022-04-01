@@ -1,13 +1,13 @@
 ---
 title: Produtos com Fim do Suporte em 2028
 description: Descubra que produtos serão descontinuados, alcançarão o fim de suporte ou passarão do suporte base para o suporte alargado em 2028.
-ms.date: 08/11/2021
-ms.openlocfilehash: d9483ab57d5626bb7db3be75fd915951aa68adf1
-ms.sourcegitcommit: 5e9349227c409d98c77eb151f27be486fb55a00c
+ms.date: 01/26/2022
+ms.openlocfilehash: a8b3c4f4e6e462fa015bad7b2c1b609d44d9838b
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "4028548"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4116972"
 ---
 # <a name="products-ending-support-in-2028"></a>Produtos com Fim de Suporte em 2028
 
@@ -39,3 +39,11 @@ Os seguintes produtos e lançamentos, regidos pela [Política Fixa](/lifecycle/p
 | [Dynamics SL 2018](/lifecycle/products/dynamics-sl-2018?branch=live)<br> | 11 de julho de 2028 |
 
 
+## <a name="products-moving-to-extended-support"></a>Produtos a transitar para o Suporte Alargado
+
+Os seguintes produtos irão passar do Suporte Base para o Suporte Alargado em 2028. O Suporte Alargado inclui atualizações de segurança gratuitas, além de atualizações pagas não relacionadas com segurança e suporte. Além disso, a Microsoft não aceitará pedidos de alterações de design nem de novas funcionalidades durante a fase de Suporte Alargado.
+
+| Produto | Fim do Suporte Base |
+| --- | --- |
+| [BizTalk Server 2020](/lifecycle/products/biztalk-server-2020?branch=live)<br> | 11 de abril de 2028 |
+| [Microsoft Host Integration Server 2020](/lifecycle/products/microsoft-host-integration-server-2020?branch=live)<br> | 11 de julho de 2028 |

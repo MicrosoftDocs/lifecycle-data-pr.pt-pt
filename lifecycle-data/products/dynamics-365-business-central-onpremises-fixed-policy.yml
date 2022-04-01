@@ -3,23 +3,29 @@ metadata:
   title: Dynamics 365 Business Central no local (Política Fixa)
   description: O Dynamics 365 Business Central no local (Política Fixa) segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
+  ms.openlocfilehash: 1d109b983f3b77360e49e62883fb1b4a7c85ba38
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: pt-PT
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4108573"
 name: Dynamics 365 Business Central no local (Política Fixa)
-summary: |+
+summary: >+
   O Dynamics 365 Business Central no local (Política Fixa) segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:
-  - dynamics
+- dynamics
 policyType: fixed
 supportDates:
-  start: 10/01/2018
-  end: 10/10/2023
-  extendedEnd: 10/14/2025
+  start: 2018-10-01T00:00:00.000-08:00
+  end: 2023-10-10T22:59:59.999-08:00
+  extendedEnd: 2025-10-14T22:59:59.999-08:00
 releases:
-  - version: 'Spring 2019 Update, version 14.x'
-    startDate: 04/01/2019
-    endDate: 10/14/2025
-  - version: 'Fall 2018 Update, version 13.x'
-    startDate: 10/01/2018
-    endDate: 04/14/2020
-content: |+
+- version: Spring 2019 Update, version 14.x
+  startDate: 2019-04-01T00:00:00.000-08:00
+  endDate: 2025-10-14T22:59:59.999-08:00
+- version: Fall 2018 Update, version 13.x
+  startDate: 2018-10-01T00:00:00.000-08:00
+  endDate: 2020-04-14T22:59:59.999-08:00
+content: ''

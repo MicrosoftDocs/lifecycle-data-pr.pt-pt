@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Machine Learning Studio (clássico)
+  description: O Machine Learning Studio (clássico) segue a Política de Ciclo de Vida Moderna.
+  ms.date: 11/16/2021
+  keywords: 
+  ms.openlocfilehash: b81ff2080961ea0f8a1ae70a3b0a05fdbc2440e9
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: pt-PT
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4157190"
+name: Machine Learning Studio (clássico)
+summary: >+
+  O Machine Learning Studio (clássico) segue a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
+
+
+
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 2015-05-18T00:00:00.000-08:00
+  end: 2024-08-31T22:59:59.999-08:00
+releases:
+- version: Original Release
+  startDate: 2015-05-18T00:00:00.000-08:00
+  endDate: 2024-08-31T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Ligações \n* [Migrar para a Azure Machine Learning](/azure/machine-learning/migrate-overview)\n\n\n> [!NOTE]\n> O Machine Learning Studio (clássico) será reformado a 31 de agosto de 2024. A partir de 1 de dezembro de 2021, os clientes não conseguirão criar novos recursos do Machine Learning Studio (clássico). Os clientes devem transitar para Azure Machine Learning antes de agosto de 2024. Aceda [aqui](https://docs.microsoft.com/azure/machine-learning/migrate-overview) para obter mais informações."
