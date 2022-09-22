@@ -1,13 +1,13 @@
 ---
 title: Produtos com Fim do Suporte em 2025
 description: Descubra que produtos serão descontinuados, alcançarão o fim de suporte ou passarão do suporte base para o suporte alargado em 2025.
-ms.date: 03/09/2022
-ms.openlocfilehash: 0ef5be1ee8667f218c76bc4c219b19db879ec365
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 07/26/2022
+ms.openlocfilehash: e8838567dcbd55799be4036be1031dcb5181caab
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117194"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4517934"
 ---
 # <a name="products-ending-support-in-2025"></a>Produtos com Fim de Suporte em 2025
 
